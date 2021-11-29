@@ -62,14 +62,4 @@ send invoice for the cost of hosting her site -> done send invoice for dev work 
 
     make sure theme can work with woocommerce
 
-    should be getting the check soon
 
-    letter recieved to do:
-
-    deposit
-
-    buy name
-
-    do temp site
-
-    make site
