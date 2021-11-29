@@ -74,3 +74,7 @@ Site hosted on bluehost
     - fix size of header
     - go over logo placement
     - add the other pages
+    - check ssl
+    - make sure pictures are good to use
+    - begin shop layout
+    - check color codes on wireframe
