@@ -78,7 +78,9 @@ Site hosted on bluehost
     - make sure pictures are good to use
     - begin shop layout
     - check color codes on wireframe
+    - add content to lavender, native plant, and other pages
     
 for call:
 
     - make sure the store front looks the way she wants, ask how many products, ask about bundles
+    - estimate on when she will have the content for site
