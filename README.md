@@ -64,3 +64,10 @@ send invoice for the cost of hosting her site -> done send invoice for dev work 
 
 Site hosted on bluehost
 - to unpublish:in bluehost, go to settings in, untoggle coming soon page
+
+to do: 
+    - finish matching wireframe
+    - check font
+    - fix the footer
+    - fix size of header
+    - go over logo placement
