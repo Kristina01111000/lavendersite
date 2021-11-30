@@ -83,6 +83,9 @@ Site hosted on bluehost
     
 for call:
 
+    - remember to publish site before call
     - make sure the store front looks the way she wants, ask how many products, ask about bundles
     - estimate on when she will have the content for site, copy
     - check the images blue host puts in, does she like them? Look for different ones
+    
+    - remember to unpublish site after call
