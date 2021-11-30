@@ -50,13 +50,9 @@ todays meeting:
 
 how are you doing?
 
-didnt get url yet b/c best price is to buy if from host think it should be on blue host, -> hosting recommended by wordpress there is a plan specifically for woocommerce, it is much more expensive than the kind that isn't specifically designes for woo commerce choice plus is 125 / year vs woocommerce standard is 239 per year, 114 dollar difference because you're just starting, the choice plus wouldnt be an issue, but the woocommerce standard would be better 3 year woocommerce standard is 514 for three years, so that is an option -> she wants to do the three years normally i would charge 900 for a site like this, because there is no rush I will charge 700 for the site and 15 a month for maintenance
-
 new plan is to sell starting this spring, want to place orders by spring pages that describe environments, not check boxes have add to cart buttons on pages that describe the different types of environments january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant have it email janet when the inventory is almost out
 
 see if woocommerce is good with bank accounts or if paypal charges for businesses
-
-send invoice for the cost of hosting her site -> done send invoice for dev work -> done start site when paid!
 
     wireframes in email
 
