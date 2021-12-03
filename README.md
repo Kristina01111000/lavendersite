@@ -85,3 +85,5 @@ for call:
     - check the images blue host puts in, does she like them? Look for different ones
     
     - remember to unpublish site after call
+
+    - make google doc for both of us
