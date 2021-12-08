@@ -87,3 +87,5 @@ for call:
     - remember to unpublish site after call
 
     - make google doc for both of us
+
+    - email sent for google doc tomorrow
