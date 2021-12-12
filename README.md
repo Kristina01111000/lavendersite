@@ -89,3 +89,4 @@ for call:
     - make google doc for both of us
 
     - email sent for google doc tomorrow
+    - next call on friday @ 11
