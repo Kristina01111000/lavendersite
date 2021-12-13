@@ -87,6 +87,6 @@ for call:
     - remember to unpublish site after call
 
     - make google doc for both of us
-
+    - update google doc
     - email sent for google doc tomorrow
     - next call on friday @ 11
