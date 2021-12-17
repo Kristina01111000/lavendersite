@@ -93,3 +93,5 @@ for call:
 
 
 - make an administrator account for janet
+- put bundle numbers in plant description on shop page
+- put bundles on seperate pages, link to those pages with brief descrption on the native plants page
