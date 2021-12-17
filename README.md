@@ -106,3 +106,15 @@ for call:
 - she is sending footer info today
 - keep contact page, she is going to make some podcasts and use the email list to contact people
 - she is going to check the fav garden email, dont point it
+lavender page pictures:
+- picture of field
+- she will send picture of food with lavender in it
+- lavender oil and jewelry she will stage photos
+- yoga in lavender field *
+- pollinators photo, stock photo blanket of marchs or bee hive 
+
+for native plants page:
+- plant community bundles name of bundles think of another name if possible
+- same layout as lavender page
+
+for event page, remove the green background event list, she likes the other stuff
