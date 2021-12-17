@@ -141,3 +141,5 @@ leave site up for feedback after i get some copy
 **double check that paypal can use peoples credit card info without having an account**
 
 quick books wordpress plugin, easy export or automatic 
+
+next meeting in mid january after copy is sent
