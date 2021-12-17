@@ -95,3 +95,12 @@ for call:
 - make an administrator account for janet
 - put bundle numbers in plant description on shop page
 - put bundles on seperate pages, link to those pages with brief descrption on the native plants page
+- will recieve different files for logos
+- use lavender plant from farm for circle on home page
+- bumble bee on asters for circle photo, golden rod (solidago)
+- for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
+    -  or wrought iron fences in lavender fields relaxing in flowers
+   -  photo of her daughter sitting in lavender field
+- move subtitle below title on homepage
+- remove the button above the logo  (contact page button)
+- she is sending footer info today
