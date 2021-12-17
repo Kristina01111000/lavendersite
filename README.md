@@ -104,3 +104,5 @@ for call:
 - move subtitle below title on homepage
 - remove the button above the logo  (contact page button)
 - she is sending footer info today
+- keep contact page, she is going to make some podcasts and use the email list to contact people
+- she is going to check the fav garden email, dont point it
