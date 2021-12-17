@@ -129,3 +129,5 @@ pollinators monarchs or bees, what ever isn't on the other page
 put images in google folder into gallery
 
 podcast won't be ready until feb/march
+
+podcast will be on anchor, see how that works with bluehost
