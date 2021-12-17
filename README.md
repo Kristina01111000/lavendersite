@@ -132,3 +132,10 @@ podcast won't be ready until feb/march
 
 podcast will be on anchor, see how that works with bluehost
 subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
+
+check back in february to see out completed site
+
+leave site up for feedback after i get some copy
+
+
+**double check that paypal can use peoples credit card info without having an account**
