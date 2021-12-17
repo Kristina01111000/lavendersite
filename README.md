@@ -90,3 +90,6 @@ for call:
     - update google doc
     - email sent for google doc tomorrow
     - next call on friday @ 11
+
+
+- make an administrator account for janet
