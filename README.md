@@ -131,3 +131,4 @@ put images in google folder into gallery
 podcast won't be ready until feb/march
 
 podcast will be on anchor, see how that works with bluehost
+subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
