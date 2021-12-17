@@ -118,3 +118,14 @@ for native plants page:
 - same layout as lavender page
 
 for event page, remove the green background event list, she likes the other stuff
+- add location to events page, 
+- remove location page
+
+always faverolles gardens in the site, check all of it
+
+garden name chickens picture captain at 12 weeks
+pollinators monarchs or bees, what ever isn't on the other page
+
+put images in google folder into gallery
+
+podcast won't be ready until feb/march
