@@ -119,7 +119,7 @@ for native plants page:
 
 for event page, remove the green background event list, she likes the other stuff
 - add location to events page, 
-- remove location page
+
 
 always faverolles gardens in the site, check all of it
 
