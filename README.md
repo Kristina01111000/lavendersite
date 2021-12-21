@@ -143,3 +143,5 @@ leave site up for feedback after i get some copy
 quick books wordpress plugin, easy export or automatic 
 
 next meeting in mid january after copy is sent
+
+- the footer color shows up in preview, but not when published, figure out why
