@@ -117,8 +117,6 @@ for native plants page:
 - plant community bundles name of bundles think of another name if possible
 - same layout as lavender page
 
-for event page, remove the green background event list, she likes the other stuff
-- add location to events page, 
 
 
 always faverolles gardens in the site, check all of it
@@ -145,3 +143,7 @@ quick books wordpress plugin, easy export or automatic
 next meeting in mid january after copy is sent
 
 - the footer color shows up in preview, but not when published, figure out why
+
+
+Page confirmation before copy:
+-events page
