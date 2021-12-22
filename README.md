@@ -126,10 +126,7 @@ pollinators monarchs or bees, what ever isn't on the other page
 
 put images in google folder into gallery
 
-podcast won't be ready until feb/march
 
-podcast will be on anchor, see how that works with bluehost
-subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
 
 check back in february to see out completed site
 
@@ -138,12 +135,23 @@ leave site up for feedback after i get some copy
 
 **double check that paypal can use peoples credit card info without having an account**
 
-quick books wordpress plugin, easy export or automatic 
+
 
 next meeting in mid january after copy is sent
+To Do:
 
+
+To Research:
 - the footer color shows up in preview, but not when published, figure out why
+- quick books wordpress plugin, easy export or automatic 
+
+Waiting on Janet:
+- podcast won't be ready until feb/march
+    - podcast will be on anchor, see how that works with bluehost
+    - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
 
 
 Page confirmation before copy:
 -events page
+
+Page Confirmation after copy:
