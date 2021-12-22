@@ -10,13 +10,8 @@ janet questions: lavender farm and native plant retail sale advertising, sell st
 
     like hillcrest layout and look, no walls of text, likes slideshow of images, likes the simple header, likes overlay of text, encourages you to keep scrolling, likes the functionality of the shop, likes the gift cards, close to what she wants
 
-    likes the idea of an automatic scroll of images when you are sitting
 
-    wants 2 splashes, lavender and native plants
 
-    needs logo, favrelle chicken maybe,
-
-    photos of beginning of the farm, stock photos of older plants
 
     lavender farm, lavender infused gin, buy gin, specialty cocktails, workshops and educational events at the same time, in summer educational events, culinary lavender, essential oils, pick season, after that essential oils, lavender wreaths workshops,
 
@@ -38,13 +33,6 @@ list of options in the search with returns, given table limited to cny region, z
 
 subscribe to newsletter, no articles on site
 
-not ready until october or november another meeting in october to go over website themes deposit at second meeting she wants maintenance contract email her on october 1 for another meeting, get name and have cost ready
-
-url of website is name of company FaverollesGardens.com buy it to keep it safe
-
-emailed her, figure out cost for website before meeting meeting tuesday @ noon, make to do list for meeting
-
-need $200 deposit want site built in stages, or not published until its done? when do you want it launched? if in stages, would you prefer emails for accepting pages, or all then go over it in a zoom meeting? make a google doc we both can edit? monthly maintenance has to cover website costs need to look up cost of server + ssl, etc
 
 todays meeting:
 
