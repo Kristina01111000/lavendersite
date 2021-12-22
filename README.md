@@ -36,11 +36,9 @@ subscribe to newsletter, no articles on site
 
 todays meeting:
 
-how are you doing?
-
 new plan is to sell starting this spring, want to place orders by spring pages that describe environments, not check boxes have add to cart buttons on pages that describe the different types of environments january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant have it email janet when the inventory is almost out
 
-see if woocommerce is good with bank accounts or if paypal charges for businesses
+
 
     wireframes in email
 
@@ -82,14 +80,7 @@ for call:
 
 
 
-- use lavender plant from farm for circle on home page
-- bumble bee on asters for circle photo, golden rod (solidago)
-- for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
-    -  or wrought iron fences in lavender fields relaxing in flowers
-   -  photo of her daughter sitting in lavender field
-- move subtitle below title on homepage
-- remove the button above the logo  (contact page button)
-- she is sending footer info today
+
 - keep contact page, she is going to make some podcasts and use the email list to contact people
 - she is going to check the fav garden email, dont point it
 
@@ -128,11 +119,20 @@ lavender page pictures:
 for native plants page:
 - plant community bundles name of bundles think of another name if possible
 - same layout as lavender page
-
+-
+- use lavender plant from farm for circle on home page
+- bumble bee on asters for circle photo, golden rod (solidago)
+- for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
+    -  or wrought iron fences in lavender fields relaxing in flowers
+   -  photo of her daughter sitting in lavender field
+- move subtitle below title on homepage
+- remove the button above the logo  (contact page button)
+- she is sending footer info today
 
 To Research:
 - the footer color shows up in preview, but not when published, figure out why
 - quick books wordpress plugin, easy export or automatic 
+- see if woocommerce is good with bank accounts or if paypal charges for businesses
 
 Waiting on Janet:
 - podcast won't be ready until feb/march
