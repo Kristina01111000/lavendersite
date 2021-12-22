@@ -92,10 +92,8 @@ for call:
     - next call on friday @ 11
 
 
-- make an administrator account for janet
-- put bundle numbers in plant description on shop page
-- put bundles on seperate pages, link to those pages with brief descrption on the native plants page
-- will recieve different files for logos
+
+
 - use lavender plant from farm for circle on home page
 - bumble bee on asters for circle photo, golden rod (solidago)
 - for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
@@ -106,16 +104,7 @@ for call:
 - she is sending footer info today
 - keep contact page, she is going to make some podcasts and use the email list to contact people
 - she is going to check the fav garden email, dont point it
-lavender page pictures:
-- picture of field
-- she will send picture of food with lavender in it
-- lavender oil and jewelry she will stage photos
-- yoga in lavender field *
-- pollinators photo, stock photo blanket of marchs or bee hive 
 
-for native plants page:
-- plant community bundles name of bundles think of another name if possible
-- same layout as lavender page
 
 
 
@@ -139,6 +128,18 @@ leave site up for feedback after i get some copy
 
 next meeting in mid january after copy is sent
 To Do:
+- make an administrator account for janet
+- put bundle numbers in plant description on shop page
+- put bundles on seperate pages, link to those pages with brief descrption on the native plants page
+lavender page pictures:
+- picture of field
+- she will send picture of food with lavender in it
+- lavender oil and jewelry she will stage photos
+- yoga in lavender field *
+- pollinators photo, stock photo blanket of marchs or bee hive 
+for native plants page:
+- plant community bundles name of bundles think of another name if possible
+- same layout as lavender page
 
 
 To Research:
@@ -149,7 +150,7 @@ Waiting on Janet:
 - podcast won't be ready until feb/march
     - podcast will be on anchor, see how that works with bluehost
     - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
-
+- will recieve different files for logos
 
 Page confirmation before copy:
 -events page
