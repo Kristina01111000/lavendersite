@@ -63,19 +63,6 @@ Site hosted on bluehost
     - add content to lavender, native plant, and other pages
     - fix sideways image at bottom of page
     
-for call:
-
-    - remember to publish site before call
-    - make sure the store front looks the way she wants, ask how many products, ask about bundles
-    - estimate on when she will have the content for site, copy
-    - check the images blue host puts in, does she like them? Look for different ones
-    
-    - remember to unpublish site after call
-
-    - make google doc for both of us
-    - update google doc
-    - email sent for google doc tomorrow
-    - next call on friday @ 11
 
 
 
@@ -144,3 +131,16 @@ Page confirmation before copy:
 -events page
 
 Page Confirmation after copy:
+
+
+
+for call:
+
+    - remember to publish site before call
+    - make sure the store front looks the way she wants, ask how many products, ask about bundles
+    - estimate on when she will have the content for site, copy
+    - check the images blue host puts in, does she like them? Look for different ones
+    
+    - remember to unpublish site after call
+    - update google doc
+
