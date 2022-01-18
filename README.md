@@ -147,3 +147,4 @@ for call:
 still waiting on copy
 
 - make needed changes
+- email her tomorrow about copy
