@@ -145,3 +145,5 @@ for call:
     - update google doc
 
 still waiting on copy
+
+- make needed changes
