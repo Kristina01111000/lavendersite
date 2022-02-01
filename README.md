@@ -150,3 +150,4 @@ still waiting on copy
 - emailed her about copy, waiting on reply
 - meeting next week sometime, zoom
 - any day but thursday
+- fix footer
