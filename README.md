@@ -151,3 +151,4 @@ still waiting on copy
 - meeting next week sometime, zoom
 - any day but thursday
 - fix footer
+- add images
