@@ -149,3 +149,4 @@ still waiting on copy
 - make needed changes
 - emailed her about copy, waiting on reply
 - meeting next week sometime, zoom
+- any day but thursday
