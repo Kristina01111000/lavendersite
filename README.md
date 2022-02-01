@@ -152,3 +152,4 @@ still waiting on copy
 - any day but thursday
 - fix footer
 - add images
+- update on the logo
