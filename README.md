@@ -98,8 +98,7 @@ To Do:
 - put bundle numbers in plant description on shop page
 - put bundles on seperate pages, link to those pages with brief descrption on the native plants page
 lavender page pictures:
-- picture of field
-- she will send picture of food with lavender in it
+
 - lavender oil and jewelry she will stage photos
 - yoga in lavender field *
 - pollinators photo, stock photo blanket of marchs or bee hive 
