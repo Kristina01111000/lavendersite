@@ -156,3 +156,13 @@ still waiting on copy
 
 
 - some copy in google doc
+- Finish the lavender page
+Change footer color
+Build the native plants page
+Multiple, talk about format with janet
+Leaning towards a native plant ‘homepage’ with picture links to the different groups
+Setup the shop 
+Look into native plant images -> wait on names
+Make logo in header a circle -> wait until logo is finalized
+See what best app for posting on multiple sites is (instagram, facebook, the website)
+
