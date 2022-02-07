@@ -107,7 +107,6 @@ for native plants page:
 - plant community bundles name of bundles think of another name if possible
 - same layout as lavender page
 -
-- use lavender plant from farm for circle on home page
 - bumble bee on asters for circle photo, golden rod (solidago)
 - for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
     -  or wrought iron fences in lavender fields relaxing in flowers
