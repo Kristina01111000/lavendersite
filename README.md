@@ -153,3 +153,6 @@ still waiting on copy
 - fix footer
 - add images
 - update on the logo
+
+
+- some copy in google doc
