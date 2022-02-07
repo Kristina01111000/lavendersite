@@ -166,3 +166,4 @@ for next call:
 
     - front page images good?
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
+    - update on copy, logo
