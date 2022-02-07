@@ -107,10 +107,7 @@ for native plants page:
 - plant community bundles name of bundles think of another name if possible
 - same layout as lavender page
 -
-- bumble bee on asters for circle photo, golden rod (solidago)
-- for event circle, stock photo of picnic in big field (hopefully lavender) first big event next july farm to fork meal, include local businesses
-    -  or wrought iron fences in lavender fields relaxing in flowers
-   -  photo of her daughter sitting in lavender field
+
 - move subtitle below title on homepage
 - remove the button above the logo  (contact page button)
 - she is sending footer info today
@@ -165,3 +162,7 @@ still waiting on copy
 - Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
 
+
+for next call:
+
+    - front page images good?
