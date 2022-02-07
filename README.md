@@ -79,10 +79,6 @@ always faverolles gardens in the site, check all of it
 garden name chickens picture captain at 12 weeks
 pollinators monarchs or bees, what ever isn't on the other page
 
-put images in google folder into gallery
-
-
-
 check back in february to see out completed site
 
 leave site up for feedback after i get some copy
@@ -91,23 +87,18 @@ leave site up for feedback after i get some copy
 **double check that paypal can use peoples credit card info without having an account**
 
 
-
-next meeting in mid january after copy is sent
 To Do:
 - make an administrator account for janet
 - put bundle numbers in plant description on shop page
 - put bundles on seperate pages, link to those pages with brief descrption on the native plants page
 lavender page pictures:
-
 - lavender oil and jewelry she will stage photos
 - yoga in lavender field *
 - pollinators photo, stock photo blanket of marchs or bee hive 
 for native plants page:
 - plant community bundles name of bundles think of another name if possible
 - same layout as lavender page
--
-
-- move subtitle below title on homepage
+- 
 - remove the button above the logo  (contact page button)
 - she is sending footer info today
 
