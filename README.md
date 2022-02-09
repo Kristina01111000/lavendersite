@@ -151,7 +151,7 @@ still waiting on copy
 - Look into native plant images -> wait on names
 - Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
-
+- she sent spreadsheet on plants
 
 for next call:
 
