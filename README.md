@@ -158,4 +158,4 @@ for next call:
     - front page images good?
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
-email her on monday for a brief meeting
+email her on tuesday for a brief meeting to go over changes i made, leave the site up for her?
