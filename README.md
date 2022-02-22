@@ -56,12 +56,9 @@ Site hosted on bluehost
     - fix size of header
     - go over logo placement
     - add the other pages
-    - check ssl
-    - make sure pictures are good to use
-    - begin shop layout
     - check color codes on wireframe
     - add content to lavender, native plant, and other pages
-    - fix sideways image at bottom of page
+
     
 
 
@@ -74,7 +71,6 @@ Site hosted on bluehost
 
 
 
-always faverolles gardens in the site, check all of it
 
 garden name chickens picture captain at 12 weeks
 pollinators monarchs or bees, what ever isn't on the other page
@@ -100,7 +96,6 @@ for native plants page:
 - same layout as lavender page
 - 
 - remove the button above the logo  (contact page button)
-- she is sending footer info today
 
 To Research:
 - the footer color shows up in preview, but not when published, figure out why
@@ -134,8 +129,6 @@ still waiting on copy
 
 - make needed changes
 - emailed her about copy, waiting on reply
-- meeting next week sometime, zoom
-- any day but thursday
 - fix footer
 - add images
 - update on the logo
@@ -160,5 +153,5 @@ for next call:
     - front page images good?
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
-email her on tuesday for a brief meeting to go over changes i made, leave the site up for her?
+email her on wednesday for a brief meeting to go over changes i made, leave the site up for her?
 - check the google folder for updates
