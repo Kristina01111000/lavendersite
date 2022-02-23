@@ -153,7 +153,7 @@ for next call:
     - front page images good?
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
-email her on wednesday for a brief meeting to go over changes i made, leave the site up for her?
+    - leave the site up for her?
 - check the google folder for updates -> none right now
 
 
