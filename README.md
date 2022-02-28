@@ -159,3 +159,4 @@ for next call:
 
 - sent email for meeting on friday, hopefully we can talk about it
 - updated to php 8.1
+- still waiting on her response
