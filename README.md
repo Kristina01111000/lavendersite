@@ -159,4 +159,5 @@ for next call:
 
 - sent email for meeting on friday, hopefully we can talk about it
 - updated to php 8.1
-- still waiting on her response
+- still waiting on her response -> its been more than a week
+- current plan is make the changes, then email once a week until she responds
