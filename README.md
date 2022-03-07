@@ -154,11 +154,8 @@ for next call:
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
     - leave the site up for her?
-- check the google folder for updates -> none right now
+- check the google folder for updates -> copy updated, figure out store
 
 
-- sent email for meeting on friday, hopefully we can talk about it
 - updated to php 8.1
-- still waiting on her response -> its been more than a week
-- current plan is make the changes, then email once a week until she responds
-- she got back to me meeting next week! -> wednesday @ 11, send zoom link
+- she got back to me meeting this week! -> wednesday @ 11, send zoom link
