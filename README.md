@@ -135,8 +135,8 @@ still waiting on copy
 
 
 - some copy in google doc
-- Finish the lavender page
-- Change footer color
+
+
 - Build the native plants page
 - Multiple, talk about format with janet
 - Leaning towards a native plant ‘homepage’ with picture links to the different groups
@@ -153,7 +153,9 @@ for next call:
     - front page images good?
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
-    - leave the site up for her?
+    - leaving the site up now
+    
+    
 - check the google folder for updates -> copy updated, figure out store
 
 
