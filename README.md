@@ -153,3 +153,6 @@ for next call:
 
 - updated to php 8.1
 - she got back to me meeting this week! -> wednesday @ 11, send zoom link
+
+- go over about us page
+- look at shop, woocommerce
