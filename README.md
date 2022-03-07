@@ -52,19 +52,13 @@ Site hosted on bluehost
     
     - finish matching wireframe
     - check font
-    - fix the footer
+
     - fix size of header
     - go over logo placement
     - add the other pages
     - check color codes on wireframe
-    - add content to lavender, native plant, and other pages
 
     
-
-
-
-
-
 - keep contact page, she is going to make some podcasts and use the email list to contact people
 - she is going to check the fav garden email, dont point it
 
@@ -93,8 +87,6 @@ lavender page pictures:
 - pollinators photo, stock photo blanket of marchs or bee hive 
 for native plants page:
 - plant community bundles name of bundles think of another name if possible
-- same layout as lavender page
-- 
 - remove the button above the logo  (contact page button)
 
 To Research:
