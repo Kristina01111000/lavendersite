@@ -156,3 +156,6 @@ for next call:
 
 - go over about us page
 - look at shop, woocommerce
+- set up woocoommerce
+- ein for account
+- tell her what she needs for it
