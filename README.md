@@ -146,6 +146,7 @@ for next call:
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
     - leaving the site up now
+    - does she have a company paypal account?
     
     
 - check the google folder for updates -> copy updated, figure out store
