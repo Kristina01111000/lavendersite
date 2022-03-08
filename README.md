@@ -159,3 +159,4 @@ for next call:
 - set up woocoommerce
 - ein for account
 - tell her what she needs for it
+- set up zoom link
