@@ -147,13 +147,14 @@ for next call:
     - update on copy, logo
     - leaving the site up now
     - does she have a company paypal account?
+    - ask about shipping, buy online and people pick up? or ship max distance?
     
     
 - check the google folder for updates -> copy updated, figure out store
 
 
 - updated to php 8.1
-- she got back to me meeting this week! -> wednesday @ 11, send zoom link
+-  meeting -> wednesday @ 11, send zoom link
 
 - go over about us page
 - look at shop, woocommerce
