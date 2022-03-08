@@ -160,3 +160,4 @@ for next call:
 - ein for account
 - tell her what she needs for it
 - set up zoom link
+- update call to do list
