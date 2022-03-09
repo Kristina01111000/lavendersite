@@ -182,7 +182,6 @@ Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
 Top will be about lavender
-Add a place for image at the to of the lavender page
 Native Plants page:
 Schematic instead of image for bundles
 Make bundles clickable
