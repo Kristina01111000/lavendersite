@@ -147,6 +147,7 @@ for next call:
     - update on copy, logo
     - leaving the site up now
     - does she have a company paypal account? developers account also?
+        - if shw doesn't want a paypal she can use stripe, i have never used it before
     - ask about shipping, buy online and people pick up? or ship max distance?
     - what plant zones does she serve? limit shipping to ny?
     
