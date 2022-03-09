@@ -174,10 +174,7 @@ send invoice for feb and march tomorrow(30)
 
 Homepage edits:
 Make logo on home page smaller (a quarter of the size)
-Make faverolles gardens text much larger on home page
-Switch read more button to about us
 Link sections to appropriate pages from homepage
-Switch visit us to motivation and philosophy
 
 Lavender page:
 United states lavenders growers logo on page, add 
