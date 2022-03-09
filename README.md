@@ -148,7 +148,7 @@ for next call:
     - leaving the site up now
     - does she have a company paypal account?
     - ask about shipping, buy online and people pick up? or ship max distance?
-    - what plant zones does she serve?
+    - what plant zones does she serve? limit shipping to ny?
     
     
 - check the google folder for updates -> copy updated, figure out store
