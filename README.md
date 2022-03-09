@@ -75,7 +75,7 @@ leave site up for feedback after i get some copy
 
 
 To Do:
-- make an administrator account for janet
+
 - put bundle numbers in plant description on shop page
 - put bundles on seperate pages, link to those pages with brief descrption on the native plants page
 lavender page pictures:
@@ -147,6 +147,7 @@ for next call:
         - if shw doesn't want a paypal she can use stripe, i have never used it before
     - ask about shipping, buy online and people pick up? or ship max distance?
     - what plant zones does she serve? limit shipping to ny?
+    - try admin login, change password
     
     
 - check the google folder for updates -> copy updated, figure out store
