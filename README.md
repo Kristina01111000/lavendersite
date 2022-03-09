@@ -177,14 +177,12 @@ Make logo on home page smaller (a quarter of the size)
 Make faverolles gardens text much larger on home page
 Switch read more button to about us
 Link sections to appropriate pages from homepage
-She will change images for native plants and events
 Switch visit us to motivation and philosophy
 Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
 Top will be about lavender
 Add a place for image at the to of the lavender page
-She will add lavender images to wellbeing and environment
 Native Plants page:
 Schematic instead of image for bundles
 Make bundles clickable
