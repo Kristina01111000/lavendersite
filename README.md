@@ -63,9 +63,6 @@ Site hosted on bluehost
 - she is going to check the fav garden email, dont point it
 
 
-
-
-
 garden name chickens picture captain at 12 weeks
 pollinators monarchs or bees, what ever isn't on the other page
 
@@ -156,12 +153,13 @@ for next call:
 
 
 - updated to php 8.1
--  meeting -> wednesday @ 11, send zoom link
+-  meeting -> wednesday @ 11
 
 - go over about us page
 - look at shop, woocommerce
 - set up woocoommerce
-- ein for account
+- ein for account?
 - tell her what she needs for it
 - zoom link sent
 - update call to do list
+- put pictures in gallery?
