@@ -146,7 +146,7 @@ for next call:
     - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
     - update on copy, logo
     - leaving the site up now
-    - does she have a company paypal account?
+    - does she have a company paypal account? developers account also?
     - ask about shipping, buy online and people pick up? or ship max distance?
     - what plant zones does she serve? limit shipping to ny?
     
