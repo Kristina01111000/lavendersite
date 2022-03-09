@@ -178,6 +178,7 @@ Make faverolles gardens text much larger on home page
 Switch read more button to about us
 Link sections to appropriate pages from homepage
 Switch visit us to motivation and philosophy
+
 Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
@@ -193,6 +194,7 @@ For footer add united states lavender growers logo to it (have two logos?)have l
 
 Remove twitter from footer, just facebook and instagram
 Add subscribe to newsletter in a banner above footer
+
 For shop:
 Put latin name above the common name, bold common name, uppercase for genus, lowercase for species, common name all caps
 See if I can add categories for sorting link prairie moon, not native range
@@ -202,12 +204,13 @@ Description, planting, companions, wildlife value, in extended page
 Only pick ups, no delivery, no shipping
 She wants them to pay for it online, then come pick it up
 Pay when they order
-Set shop color to white
+Set shop color to white - didn't work for some reason? check tomorrow
 Have something where when an item is at 0 left, have them get a message that says contact janet for more options
 Wants reviews associated with consulting and events, not the plants, add review section to events page
 Hide the events page for niow
 Put map on contact us page, 
 Shop page will have section about going to pick up the plants
+
 About us page: switch to picture on monarch on a lavender plant
 Put 9 week old babe in gallery and some of the fields
 Add a blog section to site
