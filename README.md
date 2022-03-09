@@ -165,7 +165,8 @@ for next call:
 - update call to do list
 - put pictures in gallery?
 
-
+next meeting:
+- removed logo from center of homepage, looks more clean
 
 send invoice for feb and march tomorrow(30)
 
@@ -173,7 +174,6 @@ send invoice for feb and march tomorrow(30)
 
 
 Homepage edits:
-Make logo on home page smaller (a quarter of the size)
 Link sections to appropriate pages from homepage
 
 Lavender page:
