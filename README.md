@@ -164,3 +164,8 @@ for next call:
 - zoom link sent
 - update call to do list
 - put pictures in gallery?
+
+
+
+send invoice for feb and march tomorrow(30)
+update git page from meeting notes
