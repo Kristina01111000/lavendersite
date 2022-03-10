@@ -189,7 +189,6 @@ Switch read more to visit shop
 Bundles won’t be called bundles, look at prairiemoon.com website for example
 For footer add united states lavender growers logo to it (have two logos?)have logos vertical, not sideways
 
-Remove twitter from footer, just facebook and instagram
 Add subscribe to newsletter in a banner above footer
 
 For shop:
