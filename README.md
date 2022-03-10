@@ -174,7 +174,7 @@ send invoice for feb and march tomorrow(30)
 
 
 Homepage edits:
-Link sections to appropriate pages from homepage
+linked lavender and native plants, did not link events
 
 Lavender page:
 United states lavenders growers logo on page, add 
