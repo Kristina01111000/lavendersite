@@ -172,10 +172,18 @@ send invoice for feb and march tomorrow(30)
 
 
 
+Next call:
 
-Homepage edits:
-linked lavender and native plants, did not link events
+Homepage:
+- linked lavender and native plants, did not link events
 
+footer: 
+- can't link 2 icons, 
+- need urls for social accounts
+- removed phone number
+
+
+to do:
 Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
