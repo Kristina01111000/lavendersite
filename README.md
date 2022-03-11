@@ -39,11 +39,6 @@ todays meeting:
 new plan is to sell starting this spring, want to place orders by spring pages that describe environments, not check boxes have add to cart buttons on pages that describe the different types of environments january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant have it email janet when the inventory is almost out
 
 
-
-    wireframes in email
-
-    make sure theme can work with woocommerce
-
 Site hosted on bluehost
 
 - to unpublish:in bluehost, go to settings in, untoggle coming soon page
