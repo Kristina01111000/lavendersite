@@ -70,7 +70,7 @@ for native plants page:
 - remove the button above the logo  (contact page button)
 
 To Research:
-- the footer color shows up in preview, but not when published, figure out why
+- the shop color shows up in preview, but not when published, figure out why
 - quick books wordpress plugin, easy export or automatic 
 - see if woocommerce is good with bank accounts or if paypal charges for businesses
 
@@ -86,16 +86,6 @@ Page confirmation before copy:
 Page Confirmation after copy:
 
 
-
-for call:
-
-    - remember to publish site before call
-    - make sure the store front looks the way she wants, ask how many products, ask about bundles
-    - estimate on when she will have the content for site, copy
-    - check the images blue host puts in, does she like them? Look for different ones
-    
-    - remember to unpublish site after call
-    - update google doc
 
 
 - Multiple, talk about format with janet
