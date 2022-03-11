@@ -133,7 +133,6 @@ for next call:
     - try admin login, change password
     
     
-- check the google folder for updates -> copy updated, figure out store
 
 - go over about us page
 - look at shop, woocommerce
@@ -144,22 +143,6 @@ for next call:
 - update call to do list
 - put pictures in gallery?
 
-next meeting:
-- removed logo from center of homepage, looks more clean
-
-send invoice for feb and march tomorrow(30)
-
-
-
-Next call:
-
-Homepage:
-- linked lavender and native plants, did not link events
-
-footer: 
-- can't link 2 icons, 
-- need urls for social accounts
-- removed phone number
 
 
 to do:
@@ -198,4 +181,18 @@ About us page: switch to picture on monarch on a lavender plant
 Put 9 week old babe in gallery and some of the fields
 Add a blog section to site
 
+
+
 send invoice for feb, mar, apr -> sent, also had explanation of fee for time
+
+
+next meeting:
+- removed logo from center of homepage, looks more clean
+
+Homepage:
+- linked lavender and native plants, did not link events
+
+footer: 
+- can't link 2 icons, 
+- need urls for social accounts
+- removed phone number
