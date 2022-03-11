@@ -127,17 +127,13 @@ for next call:
     - update on copy, logo
     - leaving the site up now
     - does she have a company paypal account? developers account also?
-        - if shw doesn't want a paypal she can use stripe, i have never used it before
+        - if she doesn't want a paypal she can use stripe, i have never used it before
     - ask about shipping, buy online and people pick up? or ship max distance?
     - what plant zones does she serve? limit shipping to ny?
     - try admin login, change password
     
     
 - check the google folder for updates -> copy updated, figure out store
-
-
-- updated to php 8.1
--  meeting -> wednesday @ 11
 
 - go over about us page
 - look at shop, woocommerce
