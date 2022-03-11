@@ -183,10 +183,10 @@ Add a blog section to site
 
 
 
-send invoice for feb, mar, apr -> sent, also had explanation of fee for time
+invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april
 
 
-next meeting:
+next meeting talk:
 - removed logo from center of homepage, looks more clean
 
 Homepage:
