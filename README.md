@@ -146,6 +146,7 @@ for next call:
 
 
 to do:
+switch icon in tab for site
 Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
