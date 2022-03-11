@@ -97,23 +97,11 @@ for call:
     - remember to unpublish site after call
     - update google doc
 
-still waiting on copy
 
-- make needed changes
-- emailed her about copy, waiting on reply
-- fix footer
-- add images
-- update on the logo
-
-
-- some copy in google doc
-
-
-- Build the native plants page
 - Multiple, talk about format with janet
 - Leaning towards a native plant ‘homepage’ with picture links to the different groups
 - Setup the shop 
-- Look into native plant images -> wait on names
+- Look into native plant images -> wait on janet for pictures
 - Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
 - she sent spreadsheet on plants -> don't put the plants that are not bought yet into the site yet, 
