@@ -75,10 +75,10 @@ Waiting on Janet:
 - will recieve different files for logos
 
 
-- Multiple, talk about format with janet
-- Leaning towards a native plant ‘homepage’ with picture links to the different groups
+- Leaning towards a native plant ‘homepage’ with picture links to the different bundles in shop
 - Setup the shop 
 - Look into native plant images -> wait on janet for pictures
+    - check for images that are open source for some of the plants + get confirmation from her
 - Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
 - she sent spreadsheet on plants -> don't put the plants that are not bought yet into the site yet, 
