@@ -47,18 +47,6 @@ new plan is to sell starting this spring, want to place orders by spring pages t
 Site hosted on bluehost
 
 - to unpublish:in bluehost, go to settings in, untoggle coming soon page
-
- to do: 
-    
-    - finish matching wireframe
-    - check font
-
-    - fix size of header
-    - go over logo placement
-    - add the other pages
-    - check color codes on wireframe
-
-    
 - keep contact page, she is going to make some podcasts and use the email list to contact people
 - she is going to check the fav garden email, dont point it
 
