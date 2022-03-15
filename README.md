@@ -151,6 +151,7 @@ Add a blog section to site
 
 invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april -> done
 she can edit the site now
+ emailed her about links to social media
 
 
 next meeting talk:
