@@ -152,7 +152,7 @@ Add a blog section to site
 invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april -> done
 she can edit the site now
  emailed her about links to social media
-
+see about linking aocial media updates to the site, bluehost allows it
 
 next meeting talk:
 - removed logo from center of homepage, looks more clean
