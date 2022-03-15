@@ -85,17 +85,6 @@ Waiting on Janet:
     - ask about not listed vs. sold out for them
 - get pictures and confirm that they are the right plants
 
-for next call:
-
-    - front page images good?
-    - lavender page images? i put in an oil img, couldn't find an img of yoga in a lavender field
-    - update on copy, logo
-    - leaving the site up now
-    - does she have a company paypal account? developers account also?
-        - if she doesn't want a paypal she can use stripe, i have never used it before
-    - ask about shipping, buy online and people pick up? or ship max distance?
-    - what plant zones does she serve? limit shipping to ny?
-    - try admin login, change password
     
     
 
