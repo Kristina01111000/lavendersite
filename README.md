@@ -144,7 +144,7 @@ she can edit the site now
 see about linking aocial media updates to the site, bluehost allows it
 
 next meeting talk:
-- removed logo from center of homepage, looks more clean
+- removed logo from center of homepage, looks more clean -> emailed her about it
 
 Homepage:
 - linked lavender and native plants, did not link events
