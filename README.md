@@ -113,7 +113,6 @@ Add another horizontal panel underneath bundles
 Switch read more to visit shop
 Bundles won’t be called bundles, look at prairiemoon.com website for example
 For footer add united states lavender growers logo to it (have two logos?)have logos vertical, not sideways
-check pollinators text on about us page
 
 
 Add subscribe to newsletter in a banner above footer
