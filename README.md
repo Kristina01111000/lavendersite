@@ -131,6 +131,7 @@ Have something where when an item is at 0 left, have them get a message that say
 Wants reviews associated with consulting and events, not the plants, add review section to events page
 Put map on contact us page, 
 Shop page will have section about going to pick up the plants
+if no inventory list it as 0
 
 About us page: switch to picture on monarch on a lavender plant
 Put 9 week old babe in gallery and some of the fields
