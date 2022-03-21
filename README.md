@@ -159,3 +159,4 @@ footer:
 shop:
 - sorting of products
 - images
+- description feedback
