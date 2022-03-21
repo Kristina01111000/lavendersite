@@ -133,6 +133,8 @@ Put map on contact us page,
 Shop page will have section about going to pick up the plants
 if no inventory list it as 0
 
+Have started adding inventory, need images for most
+
 About us page: switch to picture on monarch on a lavender plant
 Put 9 week old babe in gallery and some of the fields
 Add a blog section to site
