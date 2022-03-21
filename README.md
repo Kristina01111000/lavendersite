@@ -129,7 +129,6 @@ Pay when they order
 Set shop color to white - didn't work for some reason? check tomorrow
 Have something where when an item is at 0 left, have them get a message that says contact janet for more options
 Wants reviews associated with consulting and events, not the plants, add review section to events page
-Hide the events page for niow
 Put map on contact us page, 
 Shop page will have section about going to pick up the plants
 
@@ -152,5 +151,4 @@ Homepage:
 
 footer: 
 - can't link 2 icons, 
-- need urls for social accounts
 - removed phone number
