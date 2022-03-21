@@ -155,3 +155,7 @@ Homepage:
 footer: 
 - can't link 2 icons, 
 - removed phone number
+
+shop:
+- sorting of products
+- images
