@@ -160,3 +160,5 @@ shop:
 - images for several plants needed, confirm current images
 - description feedback
 - need bundle info
+
+configure yoast after  shop is ready
