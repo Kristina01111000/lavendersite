@@ -150,11 +150,11 @@ next meeting notes:
 
 
 Homepage:
-- linked lavender and native plants, did not link events
+- linked lavender and native plants, did not link events, page unlinked from menu, can easily be readded when it's time
 
 footer: 
 - can't link 2 icons, 
-- removed phone number
+- changed phone number
 
 shop:
 - sorting of products
