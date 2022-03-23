@@ -158,5 +158,5 @@ footer:
 
 shop:
 - sorting of products
-- images
+- images for several plants needed, confirm current images
 - description feedback
