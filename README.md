@@ -133,9 +133,9 @@ Put map on contact us page,
 Shop page will have section about going to pick up the plants
 if no inventory list it as 0
 
-Have started adding inventory, need images for most
+Have started adding inventory, need images for  14 more
 
-About us page: switch to picture on monarch on a lavender plant
+About us page: 
 Put 9 week old babe in gallery and some of the fields
 Add a blog section to site
 
@@ -148,7 +148,6 @@ need email for site
 
 next meeting notes:
 
-
 Homepage:
 - linked lavender and native plants, did not link events, page unlinked from menu, can easily be readded when it's time
 
@@ -157,6 +156,7 @@ footer:
 - changed phone number
 
 shop:
-- sorting of products
+- sorting of products, sectioned off? 
 - images for several plants needed, confirm current images
 - description feedback
+- need bundle info
