@@ -141,13 +141,13 @@ Add a blog section to site
 
 
 
-invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april -> done
+invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april -> sent
 she can edit the site now
-she is looking for pictures
+she is looking for pictures -> some uploaded, some not
 need email for site
 
-next meeting talk:
-- removed logo from center of homepage, looks more clean -> emailed her about it
+next meeting notes:
+
 
 Homepage:
 - linked lavender and native plants, did not link events
