@@ -164,3 +164,4 @@ shop:
 configure yoast after  shop is ready
 - need to finish adding things to shop (37 more) (14 w pictures, 23 w/o)
 - all current products in shop have pictures except lavender
+- need to download the pictures janet found
