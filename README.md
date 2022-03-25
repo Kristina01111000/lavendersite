@@ -162,4 +162,4 @@ shop:
 - need bundle info
 
 configure yoast after  shop is ready
-- need to finish adding things to shop
+- need to finish adding things to shop (37 more) (14 w/o pictures)
