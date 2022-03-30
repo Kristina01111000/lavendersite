@@ -141,7 +141,8 @@ Add a blog section to site
 
 
 
-invoice for feb, mar, apr -> sent, also had explanation of fee for time starting after april -> sent
+invoice for feb, mar, apr -> recieved
+explanation of fee for time starting after april -> sent
 she can edit the site now
 she is looking for pictures -> some uploaded, some not, still need 14 plant images
 need email for site
