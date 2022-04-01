@@ -169,4 +169,4 @@ configure yoast after  shop is ready
 
 -check spelling, grammar on all pages
 - added all the pictures she found into media folder
-- 38 more to add to site, 25 need pictures
+- 36 more to add to site, 25 need pictures
