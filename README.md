@@ -168,4 +168,5 @@ configure yoast after  shop is ready
 - need to download the pictures janet found
 
 -check spelling, grammar on all pages
-- added all the pictures she found
+- added all the pictures she found into media folder
+- 38 more to add to site, 25 need pictures
