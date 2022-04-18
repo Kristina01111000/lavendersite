@@ -175,3 +175,31 @@ configure yoast after  shop is ready
 
 - deleted blog + extra store
 - add page for jobs
+
+
+Beaumans nursery images, put a link under bundle section to the full inventory for the missing images, put image that says image coming soon
+Delete the blog
+Updated logos
+Add we’re hiring on the footer, make a new page for application info
+Updated logo in folder
+Make top logo bigger
+In footer put full color with full name
+Fix the our story button on the home page
+See if i can increase image size on the lavender page 
+For lavender pictures say walters gardens (where we are getting the pictures from
+For native plants page put the links in a new section that has three columns -. Called ‘join me in following these organizations’ working title
+Delete the welcome to our website on the contact us page
+Add the logos right above the footer on the lavender page and add the logo to the picture in a “place for lavender” 
+faverollesgardens@gmail.com is the email address
+Add a ‘products must be picked up at the store’
+In store put common name in parentheses, not latin, try italicized for the latin name, no parentheses
+Have to setup the paypal, for her , email her when it is done
+Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
+Fix red oak categorization
+For missing photos put fg logo then coming soon at bottom
+She will send bundle info soon, put into tags
+Reuse native plant images on bundles
+Include link to spreadsheet for native plants, she will send it to me
+Send her info about paypal, newsletter, 
+Email her when I am done with the current batch of changes 
+
