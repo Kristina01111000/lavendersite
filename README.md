@@ -53,7 +53,7 @@ garden name chickens picture captain at 12 weeks
 
 To Do:
 
-- put bundle numbers in plant description on shop page
+- put bundle names in plant description on shop page
 - put bundles on seperate pages, link to those pages with brief descrption on the native plants page
 lavender page pictures:
 - lavender oil and jewelry she will stage photos
@@ -75,10 +75,7 @@ Waiting on Janet:
 - will recieve different files for logos
 
 
-- Leaning towards a native plant ‘homepage’ with picture links to the different bundles in shop
 - Setup the shop 
-- Look into native plant images -> wait on janet for pictures
-    - check for images that are open source for some of the plants + get confirmation from her
 - Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
 - she sent spreadsheet on plants -> don't put the plants that are not bought yet into the site yet, 
@@ -87,17 +84,6 @@ Waiting on Janet:
 
     
     
-
-- go over about us page
-- look at shop, woocommerce
-- set up woocoommerce
-- ein for account?
-- tell her what she needs for it
-- zoom link sent
-- update call to do list
-- put pictures in gallery?
-
-
 
 to do:
 switch icon in tab for site
