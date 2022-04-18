@@ -173,3 +173,5 @@ configure yoast after  shop is ready
 - added a new store page, probably just delete old one
 - for shop, check the way it looks on mobile, seems not great, very squished
 
+- deleted blog + extra store
+- add page for jobs
