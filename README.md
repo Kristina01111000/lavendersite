@@ -174,3 +174,5 @@ configure yoast after  shop is ready
 - for shop, check the way it looks on mobile, seems not great
 
 - meeting tomorrow @ 3:15
+- updated to do list
+- send zoom link
