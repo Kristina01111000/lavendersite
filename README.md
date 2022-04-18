@@ -171,8 +171,5 @@ configure yoast after  shop is ready
 - 25 more to add to site, 25 need pictures
 - add sorting to shop page
 - added a new store page, probably just delete old one
-- for shop, check the way it looks on mobile, seems not great
+- for shop, check the way it looks on mobile, seems not great, very squished
 
-- meeting tomorrow @ 3:15
-- updated to do list
-- send zoom link
