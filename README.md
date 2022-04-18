@@ -172,3 +172,5 @@ configure yoast after  shop is ready
 - add sorting to shop page
 - added a new store page, probably just delete old one
 - for shop, check the way it looks on mobile, seems not great
+
+- meeting tomorrow @ 3:15
