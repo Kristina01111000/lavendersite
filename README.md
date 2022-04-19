@@ -179,17 +179,18 @@ Add the logos right above the footer on the lavender page and add the logo to th
 faverollesgardens@gmail.com is the email address
 Add a ‘products must be picked up at the store’
 In store put common name in parentheses, not latin, try italicized for the latin name, no parentheses
-Have to setup the paypal, for her , email her when it is done
+
 Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
 Fix red oak categorization
 For missing photos put fg logo then coming soon at bottom
 She will send bundle info soon, put into tags
 Reuse native plant images on bundles
-Include link to spreadsheet for native plants, she will send it to me
-Send her info about paypal,  
+
+
 Email her when I am done with the current batch of changes 
 
 using send in blue for email newsletter, lets you send 300 emails free per day, higher than that is 20 dollars a month
 https://wordpress.org/plugins/mailin/
 
 need to set up paypal, info in email
+set up link for spreadsheet
