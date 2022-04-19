@@ -163,7 +163,6 @@ For missing photos put fg logo then coming soon at bottom
 She will send bundle info soon, put into tags
 Reuse native plant images on bundles
 
-
 Email her when I am done with the current batch of changes 
 
 using send in blue for email newsletter, lets you send 300 emails free per day, higher than that is 20 dollars a month
@@ -171,4 +170,5 @@ https://wordpress.org/plugins/mailin/
 
 need to set up paypal, info in email
 set up link for spreadsheet
-ask about job info
+ask about job info for site
+figure out why shop looks so different in builder vs site
