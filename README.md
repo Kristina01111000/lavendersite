@@ -6,9 +6,7 @@ janet questions: lavender farm and native plant retail sale advertising, sell st
 
     likes and dislikes
 
-    layout of lockwood bad, like the pictures
 
-    like hillcrest layout and look, no walls of text, likes slideshow of images, likes the simple header, likes overlay of text, encourages you to keep scrolling, likes the functionality of the shop, likes the gift cards, close to what she wants
 
 
 
@@ -19,25 +17,10 @@ janet questions: lavender farm and native plant retail sale advertising, sell st
 
 focus on lavender for now, limited time to buy native plants, with an end date wants a pronunciation thing on website
 
-    about page lavender,
-    about pollinators
-    about native plants
-    shopping
-    contact form email
-    images of farm,
-    directions page
-    barn renovating to make an event space -
-    patio - needs to be done
 
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
 subscribe to newsletter, no articles on site
-
-
-todays meeting:
-
-new plan is to sell starting this spring, want to place orders by spring pages that describe environments, not check boxes have add to cart buttons on pages that describe the different types of environments january is website up date, no preorder cutoff, if inventory is out, default to having them request a specific plant have it email janet when the inventory is almost out
-
 
 Site hosted on bluehost
 
