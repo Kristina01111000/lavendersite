@@ -189,3 +189,4 @@ Include link to spreadsheet for native plants, she will send it to me
 Send her info about paypal, newsletter, 
 Email her when I am done with the current batch of changes 
 
+using send in blue for email newsletter
