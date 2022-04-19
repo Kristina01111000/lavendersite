@@ -172,3 +172,4 @@ need to set up paypal, info in email
 set up link for spreadsheet
 ask about job info for site
 figure out why shop looks so different in builder vs site
+remember to crop site icon (too much white space)
