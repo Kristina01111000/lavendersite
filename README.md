@@ -150,8 +150,6 @@ Beaumans nursery images, put a link under bundle section to the full inventory f
 Delete the blog
 Updated logos
 Add we’re hiring on the footer, make a new page for application info
-Updated logo in folder
-Make top logo bigger
 In footer put full color with full name
 Fix the our story button on the home page
 See if i can increase image size on the lavender page 
