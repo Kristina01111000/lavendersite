@@ -186,7 +186,10 @@ For missing photos put fg logo then coming soon at bottom
 She will send bundle info soon, put into tags
 Reuse native plant images on bundles
 Include link to spreadsheet for native plants, she will send it to me
-Send her info about paypal, newsletter, 
+Send her info about paypal,  
 Email her when I am done with the current batch of changes 
 
-using send in blue for email newsletter
+using send in blue for email newsletter, lets you send 300 emails free per day, higher than that is 20 dollars a month
+https://wordpress.org/plugins/mailin/
+
+need to set up paypal, info in email
