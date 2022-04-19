@@ -147,8 +147,6 @@ configure yoast after  shop is ready
 
 
 Beaumans nursery images, put a link under bundle section to the full inventory for the missing images, put image that says image coming soon
-Delete the blog
-Updated logos
 Add we’re hiring on the footer, make a new page for application info
 In footer put full color with full name
 Fix the our story button on the home page
