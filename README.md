@@ -177,9 +177,7 @@ For native plants page put the links in a new section that has three columns -. 
 Delete the welcome to our website on the contact us page
 Add the logos right above the footer on the lavender page and add the logo to the picture in a “place for lavender” 
 faverollesgardens@gmail.com is the email address
-Add a ‘products must be picked up at the store’
 In store put common name in parentheses, not latin, try italicized for the latin name, no parentheses
-
 Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
 Fix red oak categorization
 For missing photos put fg logo then coming soon at bottom
@@ -194,3 +192,4 @@ https://wordpress.org/plugins/mailin/
 
 need to set up paypal, info in email
 set up link for spreadsheet
+ask about job info
