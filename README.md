@@ -131,34 +131,25 @@ shop:
 - description feedback
 - need bundle info
 
-configure yoast after  shop is ready
-- need to finish adding things to shop (37 more) (14 w pictures, 23 w/o)
-- all current products in shop have pictures except lavender
-- need to download the pictures janet found
+configure yoast after shop is ready
 
 -check spelling, grammar on all pages
-- 25 more to add to site, 25 need pictures
+- 23 more to add to site, 25 need pictures
 - add sorting to shop page
 - added a new store page, probably just delete old one
 - for shop, check the way it looks on mobile, seems not great, very squished
 
-- deleted blog + extra store
 - add page for jobs
-
 
 Add we’re hiring on the footer, make a new page for application info
 For native plants page put the links in a new section that has three columns -. Called ‘join me in following these organizations’ working title
 
-Add the logos right above the footer on the lavender page and add the logo to the picture in a “place for lavender” 
 faverollesgardens@gmail.com is the email address
-In store put common name in parentheses, not latin, try italicized for the latin name, no parentheses
 Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
 
 
 She will send bundle info soon, put into tags
 Reuse native plant images on bundles
-
-Email her when I am done with the current batch of changes 
 
 using send in blue for email newsletter, lets you send 300 emails free per day, higher than that is 20 dollars a month
 https://wordpress.org/plugins/mailin/
