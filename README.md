@@ -158,3 +158,6 @@ images on lavender page as big as they can be
 - set up tax in woocommerce
 - add availability of all plants + line about when they can be picked up
 - all plants added
+- add job pdf to a new page
+- add description + pick up itme for all plants
+- add sort by catogory on shop page
