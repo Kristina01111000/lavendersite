@@ -118,7 +118,7 @@ next meeting notes:
 Homepage:
 
 footer: 
-
+- add job thing when i get it
 
 shop:
 - sorting of products, sectioned off? 
