@@ -161,3 +161,5 @@ images on lavender page as big as they can be
 - add job pdf to a new page
 - add description + pick up itme for all plants
 - add sort by catogory on shop page
+- set up optin monster
+- test the paypal in store
