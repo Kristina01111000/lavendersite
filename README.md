@@ -156,3 +156,4 @@ figure out why shop looks so different in builder vs site
 remember to crop site icon (too much white space)
 
 images on lavender page as big as they can be
+- set up tax in woocommerce
