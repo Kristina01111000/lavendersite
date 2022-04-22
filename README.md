@@ -112,18 +112,13 @@ Add a blog section to site
 
 invoice for feb, mar, apr -> recieved
 explanation of fee for time starting after april -> sent
-she can edit the site now
-she is looking for pictures -> some uploaded, some not, still need 14 plant images
-need email for site
 
 next meeting notes:
 
 Homepage:
-- linked lavender and native plants, did not link events, page unlinked from menu, can easily be readded when it's time
 
 footer: 
-- can't link 2 icons, 
-- changed phone number
+
 
 shop:
 - sorting of products, sectioned off? 
