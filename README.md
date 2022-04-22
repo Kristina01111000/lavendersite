@@ -134,7 +134,7 @@ shop:
 configure yoast after shop is ready
 
 -check spelling, grammar on all pages
-- 18 more to add to site
+- 12 more to add to site
 - 25 need pictures
 - add sorting to shop page
 - added a new store page, probably just delete old one
