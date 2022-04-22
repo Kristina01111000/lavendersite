@@ -157,3 +157,4 @@ remember to crop site icon (too much white space)
 
 images on lavender page as big as they can be
 - set up tax in woocommerce
+- add availability of all plants + line about when they can be picked up
