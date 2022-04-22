@@ -146,12 +146,7 @@ configure yoast after  shop is ready
 - add page for jobs
 
 
-Beaumans nursery images, put a link under bundle section to the full inventory for the missing images, put image that says image coming soon
 Add we’re hiring on the footer, make a new page for application info
-In footer put full color with full name
-Fix the our story button on the home page
-See if i can increase image size on the lavender page 
-For lavender pictures say walters gardens (where we are getting the pictures from
 For native plants page put the links in a new section that has three columns -. Called ‘join me in following these organizations’ working title
 
 Add the logos right above the footer on the lavender page and add the logo to the picture in a “place for lavender” 
@@ -172,3 +167,5 @@ need to set up paypal, info in email
 ask about job info for site
 figure out why shop looks so different in builder vs site
 remember to crop site icon (too much white space)
+
+images on lavender page as big as they can be
