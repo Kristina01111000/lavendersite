@@ -163,3 +163,5 @@ images on lavender page as big as they can be
 - add sort by catogory on shop page
 - set up optin monster
 - test the paypal in store
+
+- blue host down sat morning between 10:20 and noon
