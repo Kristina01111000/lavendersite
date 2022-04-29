@@ -164,3 +164,5 @@ images on lavender page as big as they can be
 - test the paypal in store? might be fixed
 - finish all ot the item descriptions
 - blue host down sat morning between 10:20 and noon
+
+email janet about bundles
