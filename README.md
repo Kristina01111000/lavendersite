@@ -165,5 +165,7 @@ images on lavender page as big as they can be
 - finish all ot the item descriptions
 - blue host down sat morning between 10:20 and noon
 
-email janet about bundles
+
 Zoom meeting tomorrow @ 9
+set up sample bundle page so she can look at it
+is payment working?
