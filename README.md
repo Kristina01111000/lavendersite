@@ -166,3 +166,4 @@ images on lavender page as big as they can be
 - blue host down sat morning between 10:20 and noon
 
 email janet about bundles
+Zoom meeting tomorrow @ 9
