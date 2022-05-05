@@ -169,3 +169,5 @@ images on lavender page as big as they can be
 Zoom meeting tomorrow @ 9
 set up sample bundle page so she can look at it
 is payment working?
+
+- put the job action on
