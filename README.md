@@ -171,3 +171,4 @@ set up sample bundle page so she can look at it
 is payment working?
 
 - put the job action on
+- need to make it more obvious that there is no shiping, only pick up
