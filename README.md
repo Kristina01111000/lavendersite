@@ -172,3 +172,5 @@ is payment working?
 
 - put the job action on
 - need to make it more obvious that there is no shiping, only pick up
+- delete the bottom  section on the event page
+- on shop page make inventory bigger and do not ship bigger
