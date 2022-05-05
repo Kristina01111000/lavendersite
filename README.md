@@ -170,17 +170,16 @@ Zoom meeting tomorrow @ 9
 set up sample bundle page so she can look at it
 is payment working?
 
-- put the job action on
+- finish job section
 - need to make it more obvious that there is no shiping, only pick up
-- delete the bottom  section on the event page
 - fix inventory numbers 
 - on shop page make inventory bigger and do not ship bigger
 - balance out footer better, make follow us on the right
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
--   native plant of the month
--   image area row of images whats blooming now
--   questions and answers
--   pollinator positions gonna be political
-- send newsletter to both of our email addresses so we can see it
-- put the link on the bottom of page right above footer, also link to it from events column
+    - native plant of the month
+    - image area row of images whats blooming now
+    - questions and answers
+    - pollinator positions gonna be political
+    - send newsletter to both of our email addresses so we can see it
+    - put the link on the bottom of page right above footer, also link to it from events column
