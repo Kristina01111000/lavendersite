@@ -157,18 +157,13 @@ remember to crop site icon (too much white space)
 images on lavender page as big as they can be
 - set up tax in woocommerce
 - add availability of all plants + line about when they can be picked up
-- all plants added
 - add description + pick up itme for all plants
 - add sort by catogory on shop page
 - set up optin monster
-- test the paypal in store? might be fixed
 - finish all ot the item descriptions
-- blue host down sat morning between 10:20 and noon
 
-
-Zoom meeting tomorrow @ 9
 set up sample bundle page so she can look at it
-is payment working?
+
 
 - finish job section
 - need to make it more obvious that there is no shiping, only pick up
@@ -185,3 +180,4 @@ added shipping warning to cart, checkout page and shop page
 make the shop page look better
 make the bundle chunks
 add the pickup line to the descriptions of the plants
+test paypal
