@@ -167,7 +167,6 @@ set up sample bundle page so she can look at it
 
 - finish job section
 - need to make it more obvious that there is no shiping, only pick up
-- fix inventory numbers 
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
     - native plant of the month
