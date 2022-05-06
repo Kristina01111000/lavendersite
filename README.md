@@ -165,7 +165,6 @@ images on lavender page as big as they can be
 set up sample bundle page so she can look at it
 
 
-- finish job section
 - need to make it more obvious that there is no shiping, only pick up
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
@@ -180,3 +179,4 @@ make the shop page look better
 make the bundle chunks
 add the pickup line to the descriptions of the plants
 test paypal
+set up the newsletter 
