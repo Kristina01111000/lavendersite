@@ -183,6 +183,7 @@ is payment working?
     - pollinator positions gonna be political
     - send newsletter to both of our email addresses so we can see it
     - put the link on the bottom of page right above footer, also link to it from events column
-added shipping warning to cart and checkout page
-need to add it to shop page
+added shipping warning to cart, checkout page and shop page
 make the shop page look better
+make the bundle chunks
+add the pickup line to the descriptions of the plants
