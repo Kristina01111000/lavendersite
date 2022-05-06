@@ -173,8 +173,6 @@ is payment working?
 - finish job section
 - need to make it more obvious that there is no shiping, only pick up
 - fix inventory numbers 
-- on shop page make inventory bigger and do not ship bigger
-- balance out footer better, make follow us on the right
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
     - native plant of the month
