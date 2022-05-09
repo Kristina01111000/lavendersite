@@ -174,9 +174,9 @@ set up sample bundle page so she can look at it
     - pollinator positions gonna be political
     - send newsletter to both of our email addresses so we can see it
     - put the link on the bottom of page right above footer, also link to it from events column
-added shipping warning to cart, checkout page and shop page, in more places?
-make the shop page look better
-make the bundle chunks
-add the pickup line to the descriptions of the plants
-test paypal
-set up the newsletter 
+- added shipping warning to cart, checkout page and shop page, in more places?
+- make the shop page look better -> add section about bundles even if bundle data isn't there yet
+- make the bundle chunks
+- add the pickup line to the descriptions of the plants (all)
+- test paypal
+- set up the newsletter 
