@@ -180,3 +180,4 @@ set up sample bundle page so she can look at it
 - add the pickup line to the descriptions of the plants (all) - about 25 left to fix
 - test paypal
 - set up the newsletter 
+- double check the spelling of LaFayette, does it have a space
