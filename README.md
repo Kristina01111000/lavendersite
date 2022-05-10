@@ -181,3 +181,4 @@ set up sample bundle page so she can look at it
 - test paypal
 - set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
+- fix refunds page
