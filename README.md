@@ -180,3 +180,6 @@ set up sample bundle page so she can look at it
 - set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
 - fix refunds page
+
+- added a separate all products page so shop would work
+- added bundles chunk to top of shop page
