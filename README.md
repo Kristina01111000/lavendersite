@@ -183,3 +183,4 @@ set up sample bundle page so she can look at it
 
 - added a separate all products page so shop would work
 - added bundles chunk to top of shop page
+- go over why that is the best idea, change it if she doesn't like it
