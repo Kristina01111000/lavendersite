@@ -184,4 +184,4 @@ set up sample bundle page so she can look at it
 - added a separate all products page so shop would work
 - added bundles chunk to top of shop page
 - figure out why shop page was a mess -> was set to the main shop page in woocommerce 
-- sent email to her about website feedback -> still nothing :(
+- sent email to her about website feedback -> still nothing :( -> still waiting, email again on monday
