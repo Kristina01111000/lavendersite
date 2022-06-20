@@ -181,9 +181,9 @@ set up sample bundle page so she can look at it
 - double check the spelling of LaFayette, does it have a space
 - fix refunds page
 
-- added a separate all products page so shop would work
-- added bundles chunk to top of shop page
+- added a separate all products page so shop would work -> done 
+- added bundles chunk to top of shop page -> link bundles?
 - figure out why shop page was a mess -> was set to the main shop page in woocommerce 
 - sent email to her about website feedback -> still nothing :( -> still waiting, email again on monday
-- set up woocommerce payments
+- set up woocommerce payments -> paypal still works, woocommerce is trying to push swiped now, 
 - email tomorrow
