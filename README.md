@@ -188,3 +188,5 @@ set up sample bundle page so she can look at it
 - set up woocommerce payments -> paypal still works, woocommerce is trying to push swiped now, 
 - email tomorrow
 - meed to set up newsletter
+- finalize no shipping
+- fix auto email to say no shippine
