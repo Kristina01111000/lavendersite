@@ -179,7 +179,7 @@ set up sample bundle page so she can look at it
 - test paypal
 - set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
-- fix refunds page
+- fix refunds page?
 
 - added a separate all products page so shop would work -> done 
 - added bundles chunk to top of shop page -> link bundles?
@@ -187,3 +187,4 @@ set up sample bundle page so she can look at it
 - sent email to her about website feedback -> still nothing :( -> still waiting, email again on monday
 - set up woocommerce payments -> paypal still works, woocommerce is trying to push swiped now, 
 - email tomorrow
+- meed to set up newsletter
