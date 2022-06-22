@@ -190,3 +190,4 @@ set up sample bundle page so she can look at it
 - meed to set up newsletter
 - finalize no shipping
 - fix auto email to say no shippine
+- check sandbox mode tomorrow morning
