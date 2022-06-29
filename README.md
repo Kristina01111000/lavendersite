@@ -191,3 +191,4 @@ set up sample bundle page so she can look at it
 - finalize no shipping
 - check auto emails, make sure they say pick up only
 - check sandbox mode tomorrow morning, check emails look good
+- make contact form
