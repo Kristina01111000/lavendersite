@@ -193,3 +193,4 @@ set up sample bundle page so she can look at it
 - check sandbox mode tomorrow morning, check emails look good
 - make contact form
 - paypal processing didn't go through?
+- emailed her about it
