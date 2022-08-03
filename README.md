@@ -20,14 +20,8 @@ focus on lavender for now, limited time to buy native plants, with an end date w
 
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
-subscribe to newsletter, no articles on site
 
 Site hosted on bluehost
-
-- to unpublish:in bluehost, go to settings in, untoggle coming soon page
-- keep contact page, she is going to make some podcasts and use the email list to contact people
-- she is going to check the fav garden email, dont point it
-
 
 garden name chickens picture captain at 12 weeks
 
