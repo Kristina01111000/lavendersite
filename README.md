@@ -134,25 +134,14 @@ configure yoast after shop is ready
 - added a new store page, probably just delete old one
 - for shop, check the way it looks on mobile, seems not great, very squished
 
-- add page for jobs
 
-Add we’re hiring on the footer, make a new page for application info
+
 For native plants page put the links in a new section that has three columns -. Called ‘join me in following these organizations’ working title
 
 faverollesgardens@gmail.com is the email address
 Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
 
 
-She will send bundle info soon, put into tags
-Reuse native plant images on bundles
-
-using send in blue for email newsletter, lets you send 300 emails free per day, higher than that is 20 dollars a month
-https://wordpress.org/plugins/mailin/
-
-need to set up paypal, info in email
-ask about job info for site
-figure out why shop looks so different in builder vs site
-remember to crop site icon (too much white space)
 
 images on lavender page as big as they can be
 - set up tax in woocommerce
