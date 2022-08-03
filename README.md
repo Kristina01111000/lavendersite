@@ -197,4 +197,4 @@ set up sample bundle page so she can look at it
 - figure out contact form, is it working?
 
 
-- meeting on wednesday or thursday? she stillhasn't emailed back 
+- meeting on wednesday @ 2:30 newsletter, shop
