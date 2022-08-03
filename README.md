@@ -102,7 +102,6 @@ Put map on contact us page,
 Shop page will have section about going to pick up the plants
 if no inventory list it as 0
 
-Have started adding inventory, need images for  14 more
 
 About us page: 
 Put 9 week old babe in gallery and some of the fields
@@ -113,33 +112,7 @@ Add a blog section to site
 invoice for feb, mar, apr -> recieved
 explanation of fee for time starting after april -> sent
 
-next meeting notes:
-
-Homepage:
-
-footer: 
-- add job thing when i get it
-
-shop:
-- sorting of products, sectioned off? 
-- images for several plants needed, confirm current images
-- description feedback
-- need bundle info
-
 configure yoast after shop is ready
-
--check spelling, grammar on all pages
-- 25 need pictures
-- add sorting to shop page
-- added a new store page, probably just delete old one
-- for shop, check the way it looks on mobile, seems not great, very squished
-
-
-
-For native plants page put the links in a new section that has three columns -. Called ‘join me in following these organizations’ working title
-
-faverollesgardens@gmail.com is the email address
-Figure the best way to handle a newsletter and email janet about it(on events page and on footer)
 
 
 
@@ -179,7 +152,7 @@ set up sample bundle page so she can look at it
 
 8/3/22 for meeting:
 instead of native plant bundles for 2022, native plant list for 2022,, then link to inventory list, then see options below
-updated inventory
+need updated inventory
 add a sign up for newsletter option on the site, using creative mail
 remove the links to the shop
 
