@@ -169,21 +169,10 @@ set up sample bundle page so she can look at it
 - set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
 - fix refunds page?
-
-- added a separate all products page so shop would work -> done 
-- added bundles chunk to top of shop page -> link bundles?
 - figure out why shop page was a mess -> was set to the main shop page in woocommerce 
-- sent email to her about website feedback -> still nothing :( -> still waiting, email again on monday
-- set up woocommerce payments -> paypal still works, woocommerce is trying to push swiped now, 
-- email tomorrow
-- meed to set up newsletter
 - finalize no shipping
 - check auto emails, make sure they say pick up only
-- check sandbox mode tomorrow morning, check emails look good
-- make contact form
-- paypal processing didn't go through?
-- emailed her about it -> it went through
-- figure out contact form, is it working?
+
 
 
 - meeting on wednesday @ 2:30 newsletter, shop
