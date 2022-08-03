@@ -23,25 +23,10 @@ list of options in the search with returns, given table limited to cny region, z
 
 Site hosted on bluehost
 
-garden name chickens picture captain at 12 weeks
-
-**double check that paypal can use peoples credit card info without having an account**
 
 
-To Do:
-
-- put bundle names in plant description on shop page
-- put bundles on seperate pages, link to those pages with brief descrption on the native plants page
-lavender page pictures:
-- lavender oil and jewelry she will stage photos
-- yoga in lavender field *
-- pollinators photo, stock photo blanket of marchs or bee hive 
-for native plants page:
-- plant community bundles name of bundles think of another name if possible
-- remove the button above the logo  (contact page button)
 
 To Research:
-- the shop color shows up in preview, but not when published, figure out why
 - quick books wordpress plugin, easy export or automatic 
 - see if woocommerce is good with bank accounts or if paypal charges for businesses
 
@@ -49,21 +34,12 @@ Waiting on Janet:
 - podcast won't be ready until feb/march
     - podcast will be on anchor, see how that works with bluehost
     - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
-- will recieve different files for logos
 
-
-- Setup the shop 
-- Make logo in header a circle -> wait until logo is finalized
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
-- she sent spreadsheet on plants -> don't put the plants that are not bought yet into the site yet, 
-    - ask about not listed vs. sold out for them
-- get pictures and confirm that they are the right plants
-
-    
+   
     
 
 to do:
-switch icon in tab for site
 Lavender page:
 United states lavenders growers logo on page, add 
 Lavender conditions instead of pick your sections
