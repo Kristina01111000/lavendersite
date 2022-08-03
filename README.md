@@ -28,50 +28,28 @@ Site hosted on bluehost
 
 To Research:
 - quick books wordpress plugin, easy export or automatic 
-- see if woocommerce is good with bank accounts or if paypal charges for businesses
 
 Waiting on Janet:
 - podcast won't be ready until feb/march
     - podcast will be on anchor, see how that works with bluehost
     - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
-
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
    
     
 
 to do:
 Lavender page:
-United states lavenders growers logo on page, add 
-Lavender conditions instead of pick your sections
-Top will be about lavender
 Native Plants page:
-Schematic instead of image for bundles
-Make bundles clickable
- On bundle pages add click to buy
-Add another horizontal panel underneath bundles 
-Switch read more to visit shop
-Bundles won’t be called bundles, look at prairiemoon.com website for example
-For footer add united states lavender growers logo to it (have two logos?)have logos vertical, not sideways
-
-
 Add subscribe to newsletter in a banner above footer
 
 For shop:
-Put latin name above the common name, bold common name, uppercase for genus, lowercase for species, common name all caps
 See if I can add categories for sorting link prairie moon, not native range
 Soil moisture, height (short medium tall), bloom color, sun exposure, bloom time, 
-Remove reviews
 Description, planting, companions, wildlife value, in extended page
 Only pick ups, no delivery, no shipping
 She wants them to pay for it online, then come pick it up
 Pay when they order
-Set shop color to white - didn't work for some reason? check tomorrow
-Have something where when an item is at 0 left, have them get a message that says contact janet for more options
-Wants reviews associated with consulting and events, not the plants, add review section to events page
 Put map on contact us page, 
-Shop page will have section about going to pick up the plants
-if no inventory list it as 0
-
 
 About us page: 
 Put 9 week old babe in gallery and some of the fields
@@ -80,11 +58,8 @@ Add a blog section to site
 
 
 invoice for feb, mar, apr -> recieved
-explanation of fee for time starting after april -> sent
 
 configure yoast after shop is ready
-
-
 
 images on lavender page as big as they can be
 - set up tax in woocommerce
