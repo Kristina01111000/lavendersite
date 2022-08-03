@@ -189,12 +189,11 @@ set up sample bundle page so she can look at it
 - meeting on wednesday @ 2:30 newsletter, shop
 
 8/3/22 for meeting:
-hide shop page and all products for now
 instead of native plant bundles for 2022, native plant list for 2022,, then link to inventory list, then see options below
 updated inventory
 add a sign up for newsletter option on the site, using creative mail
 remove the links to the shop
-add events page to top tabs
+
 she will email me exact wordage, add a link to hhomepage saying join us, right below the ourstory button in the our story section
 send invoice for the rest of the year, 15 $ for 8 months
 consider using square instead of paypal/woocommerce or linking it together, get back to her on that
