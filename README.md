@@ -106,3 +106,5 @@ send invoice for the rest of the year, 15 $ for 8 months
 consider using square instead of paypal/woocommerce or linking it together, get back to her on that
 she is going to see about paypal
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
+
+need to stop the store
