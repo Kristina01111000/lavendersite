@@ -101,10 +101,9 @@ need updated inventory from her
 add a sign up for newsletter option on the site, using creative mail
 
 
-she will email me exact wordage, add a link to homepage saying join us, right below the ourstory button in the our story section
+she will email me exact wordage, add a link to homepage saying join us, right below the our story button in the our story section
 send invoice for the rest of the year, 15 $ for 8 months
 consider using square instead of paypal/woocommerce or linking it together, get back to her on that
-she is going to see about paypal
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
 
-need to stop the store, disconnetc from paypal?
+stopped the store, disconnected from paypal
