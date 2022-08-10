@@ -107,4 +107,4 @@ consider using square instead of paypal/woocommerce or linking it together, get 
 she is going to see about paypal
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
 
-need to stop the store
+need to stop the store, disconnetc from paypal?
