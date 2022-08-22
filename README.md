@@ -107,4 +107,4 @@ consider using square instead of paypal/woocommerce or linking it together, get 
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
 
 stopped the store, disconnected from paypal
-send update and invoice for the rest of the year
+send update and invoice for the rest of the year -> done
