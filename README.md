@@ -92,9 +92,6 @@ set up sample bundle page so she can look at it
 - check auto emails, make sure they say pick up only
 
 
-
-- meeting on wednesday @ 2:30 newsletter, shop
-
 8/3/22 for meeting:
 on native plants page: under native plant list for 2022, link to inventory list, then 'see some options below'
 need updated inventory from her
@@ -102,7 +99,6 @@ add a sign up for newsletter option on the site, using creative mail
 
 
 she will email me exact wordage, add a link to homepage saying join us, right below the our story button in the our story section
-send invoice for the rest of the year, 15 $ for 8 months
 consider using square instead of paypal/woocommerce or linking it together, get back to her on that
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
 
