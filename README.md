@@ -21,11 +21,6 @@ focus on lavender for now, limited time to buy native plants, with an end date w
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
 
-Site hosted on bluehost
-
-
-
-
 To Research:
 - quick books wordpress plugin, easy export or automatic 
 
@@ -38,8 +33,6 @@ Waiting on Janet:
     
 
 to do:
-Lavender page:
-Native Plants page:
 Add subscribe to newsletter in a banner above footer
 
 For shop:
