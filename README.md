@@ -52,18 +52,9 @@ Add a blog section to site
 
 invoice for feb, mar, apr -> recieved
 
-configure yoast after shop is ready
-
-images on lavender page as big as they can be
-- set up tax in woocommerce
-- add availability of all plants + line about when they can be picked up
-- add description + pick up itme for all plants
-- add sort by catogory on shop page
+- configure yoast after shop is ready
 - set up optin monster
 - finish all ot the item descriptions
-
-
-
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
     - native plant of the month
@@ -75,9 +66,7 @@ images on lavender page as big as they can be
 - added shipping warning to cart, checkout page and shop page, in more places?
 - add the pickup line to the descriptions of the plants (all) - about 25 left to fix
 
-- set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
-- fix refunds page?
 - figure out why shop page was a mess -> was set to the main shop page in woocommerce 
 - finalize no shipping
 - check auto emails, make sure they say pick up only
