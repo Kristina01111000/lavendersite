@@ -62,10 +62,8 @@ images on lavender page as big as they can be
 - set up optin monster
 - finish all ot the item descriptions
 
-set up sample bundle page so she can look at it
 
 
-- need to make it more obvious that there is no shiping, only pick up
 - add subscribe to newsletter
 - get a newsletter plugin for a standard letter
     - native plant of the month
@@ -76,7 +74,7 @@ set up sample bundle page so she can look at it
     - put the link on the bottom of page right above footer, also link to it from events column
 - added shipping warning to cart, checkout page and shop page, in more places?
 - add the pickup line to the descriptions of the plants (all) - about 25 left to fix
-- test paypal
+
 - set up the newsletter 
 - double check the spelling of LaFayette, does it have a space
 - fix refunds page?
