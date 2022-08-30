@@ -85,3 +85,4 @@ next year she will have a digital file for all of the plants (images of plants a
 stopped the store, disconnected from paypal
 send update and invoice for the rest of the year -> done
 email her again in 2 weeks
+- Switch admin email to temp so idon;t get so many emails?
