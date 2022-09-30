@@ -87,3 +87,4 @@ send update and invoice for the rest of the year -> done
 email her again in 2 weeks
 - Switch admin email to temp so idon;t get so many emails?
 - check again in october for site corrections
+- need to get rid of cart button on headder
