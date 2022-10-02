@@ -88,3 +88,6 @@ email her again in 2 weeks
 - Switch admin email to temp so idon;t get so many emails?
 - check again in october for site corrections
 - need to get rid of cart button on headder
+
+
+email janet about renewal, offer to let her pay for it with her card, or pay me to pay for it
