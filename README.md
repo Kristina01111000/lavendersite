@@ -85,3 +85,4 @@ email her again in 2 weeks
 
 email janet about renewal, offer to let her pay for it with her card, or pay me to pay for it -> sent, waiting on response
 check on the updates for the site
+make sure she answers about who is paying for it
