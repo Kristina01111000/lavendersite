@@ -90,7 +90,4 @@ email her again in 2 weeks
 - need to get rid of cart button on headder
 
 
-email janet about renewal, offer to let her pay for it with her card, or pay me to pay for it
-email her on monday so she sees it
-
-auto renewal is going to be 200 or so dollars
+email janet about renewal, offer to let her pay for it with her card, or pay me to pay for it -> sent, waiting on response
