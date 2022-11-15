@@ -84,3 +84,4 @@ email her again in 2 weeks
 
 
 email janet about renewal, she wants me to pay it, sent invoice
+only 80 dollars charged, see if there is another charge
