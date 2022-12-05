@@ -82,7 +82,9 @@ email her again in 2 weeks
 - check again in october for site corrections
 - need to get rid of cart button on headder
 
+- renewal all set
 
-email janet about renewal, she wants me to pay it, sent invoice
-only 80 dollars charged, see if there is another charge, that was one part of the charge
-sent her an email saying that it is all paid for, with the invoice again, got check need to deposit it
+- meetin gon the 13th at 2:30
+- look into square for wp before then
+
+
