@@ -21,8 +21,7 @@ focus on lavender for now, limited time to buy native plants, with an end date w
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
 
-To Research:
-- quick books wordpress plugin, easy export or automatic 
+
 
 Waiting on Janet:
 - podcast won't be ready until feb/march
@@ -50,7 +49,6 @@ Add a blog section to site
 
 
 
-invoice for feb, mar, apr -> recieved
 
 - configure yoast after shop is ready
 - set up optin monster
@@ -79,10 +77,8 @@ stopped the store, disconnected from paypal
 send update and invoice for the rest of the year -> done
 email her again in 2 weeks
 - Switch admin email to temp so idon;t get so many emails?
-- check again in october for site corrections
 - need to get rid of cart button on headder
 
-- renewal all set
 
 - changed meeting to the 19th at 11:00
 - look into square for wp before then: https://wordpress.org/plugins/woocommerce-square/
