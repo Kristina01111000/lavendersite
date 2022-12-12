@@ -87,4 +87,4 @@ email her again in 2 weeks
 - changed meeting to the 19th at 11:00
 - look into square for wp before then
 
-
+- she wants proorders up by mid-january
