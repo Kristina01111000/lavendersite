@@ -84,7 +84,7 @@ email her again in 2 weeks
 
 - renewal all set
 
-- meetin gon the 13th at 2:30
+- changed meeting to the 19th at 11:00
 - look into square for wp before then
 
 
