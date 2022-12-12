@@ -85,6 +85,6 @@ email her again in 2 weeks
 - renewal all set
 
 - changed meeting to the 19th at 11:00
-- look into square for wp before then
+- look into square for wp before then: https://wordpress.org/plugins/woocommerce-square/
 
 - she wants proorders up by mid-january
