@@ -80,7 +80,8 @@ email her again in 2 weeks
 - need to get rid of cart button on headder
 
 
-- changed meeting to the 19th at 11:00 -> set up the chrome before then
+- changed meeting to the 19th at 11:00 -> set up the chromebook before then
+- she has not responded
 - look into square for wp before then: https://wordpress.org/plugins/woocommerce-square/
 
 - she wants preorders up by mid-january
