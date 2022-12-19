@@ -103,4 +103,5 @@ email her again in 2 weeks
 - she's considering starting a freelance grantwritting business for non- profits in fall
 - start square ready onthe 27th,
 - she will have everything ready on january 5th
-- definitely by the 15th
+- definitely need store up by the 15th
+- tell her whenever square is ready
