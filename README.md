@@ -89,3 +89,8 @@ email her again in 2 weeks
 - there are a lot of negative reviews -> biggest complaints is that inventiry doesn't sync, and inventory management is broken 
 - estimated date of pickups for pre orders?
 - will add a banner that says preorders open on ----
+
+
+
+- will be adding bundles this year
+- check the mobile view of the site, the homepage test looks wonky
