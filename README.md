@@ -90,7 +90,7 @@ email her again in 2 weeks
 - estimated date of pickups for pre orders?
 - will add a banner that says preorders open on ----
 
-
+- will have preorders open wnenever its ready
 
 - will be adding bundles this year
 - check the mobile view of the site, the homepage test looks wonky
