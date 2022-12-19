@@ -88,3 +88,4 @@ email her again in 2 weeks
 - we can try square, if its not good we can switch back to woocommerce
 - there are a lot of negative reviews
 - estimated date of pickups for pre orders?
+- will add a banner that says preorders open on ----
