@@ -86,6 +86,6 @@ email her again in 2 weeks
 
 - she wants preorders up by mid-january
 - we can try square, if its not good we can switch back to woocommerce
-- there are a lot of negative reviews
+- there are a lot of negative reviews -> biggest complaints is that inventiry doesn't sync, and inventory management is broken 
 - estimated date of pickups for pre orders?
 - will add a banner that says preorders open on ----
