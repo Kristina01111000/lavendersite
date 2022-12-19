@@ -101,3 +101,6 @@ email her again in 2 weeks
 - do the newsletter thing tomorrow, set it up 
 
 - she's considering starting a freelance grantwritting business for non- profits in fall
+- start square ready onthe 27th,
+- she will have everything ready on january 5th
+- definitely by the 15th
