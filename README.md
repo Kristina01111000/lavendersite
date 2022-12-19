@@ -97,4 +97,7 @@ email her again in 2 weeks
 - see if footer pages can be centered
 - look at the homepage lavender, native plants, events in mobile, see if they can stack ontop of each other
 - constant contact
-- on homepage move from under events subscribe to our newsletter to a new section and connect it to the email list
+- on homepage move from under events subscribe to our newsletter to a new section and connect it to the email list, starting in january
+- do the newsletter thing tomorrow, set it up 
+
+- she's considering starting a freelance grantwritting business for non- profits in fall
