@@ -77,9 +77,7 @@ stopped the store, disconnected from paypal
 send update and invoice for the rest of the year -> done
 
 
-- changed meeting to the 19th at 11:00 -> set up the chromebook before then
-- she has not responded
-- look into square for wp before then: https://wordpress.org/plugins/woocommerce-square/
+- look into square for wp: https://wordpress.org/plugins/woocommerce-square/
 
 - she wants preorders up by mid-january
 - we can try square, if its not good we can switch back to woocommerce
