@@ -90,13 +90,10 @@ email her again in 2 weeks
 - estimated date of pickups for pre orders?
 - will add a banner that says preorders open on ----
 
-- will have preorders open wnenever its ready
-
-- will be adding bundles this year
+- she will be adding bundles this year
 - check the mobile view of the site, the homepage test looks wonky
 - see if footer pages can be centered
 - look at the homepage lavender, native plants, events in mobile, see if they can stack ontop of each other
-- constant contact
 - on homepage move from under events subscribe to our newsletter to a new section and connect it to the email list, starting in january
 
 
