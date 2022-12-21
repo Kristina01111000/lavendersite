@@ -70,11 +70,11 @@ Add a blog section to site
 - check auto emails, make sure they say pick up only
 
 she will email me exact wordage, add a link to homepage saying join us, right below the our story button in the our story section
-consider using square instead of paypal/woocommerce or linking it together, get back to her on that
+consider using square instead of paypal/woocommerce or linking it together
 next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
 
-stopped the store, disconnected from paypal
-send update and invoice for the rest of the year -> done
+stopped the store, disconnected from paypal, 
+if we can't get square to work then she won't sell on the site
 
 
 - look into square for wp: https://wordpress.org/plugins/woocommerce-square/
