@@ -93,7 +93,7 @@ if we can't get square to work then she won't sell on the site
 
 
 - she's considering starting a freelance grantwritting business for non- profits in fall
-- start square ready onthe 27th,
+- start getting square ready on the 27th, make a copy of the site first
 - she will have everything ready on january 5th
 - definitely need store up by the 15th
 - tell her whenever square is ready
