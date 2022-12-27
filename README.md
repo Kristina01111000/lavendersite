@@ -15,24 +15,17 @@ janet questions: lavender farm and native plant retail sale advertising, sell st
 
     native plants: not started yet, will be whole sale, immediate education for zone b, can order the plants through her, book consultation with her, 2-3 years until propagation is available, get started next summer
 
-focus on lavender for now, limited time to buy native plants, with an end date wants a pronunciation thing on website
-
-
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
 
-
-
 Waiting on Janet:
-- podcast won't be ready until feb/march
+- podcast won't be ready until feb/march?
     - podcast will be on anchor, see how that works with bluehost
     - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
 - See what best app for posting on multiple sites is (instagram, facebook, the website)
    
     
 
-to do:
-Add subscribe to newsletter in a banner above footer
 
 For shop:
 See if I can add categories for sorting link prairie moon, not native range
