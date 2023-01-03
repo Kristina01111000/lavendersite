@@ -84,3 +84,5 @@ if we can't get square to work then she won't sell on the site
 - she will have everything ready on january 5th
 - definitely need store up by the 15th
 - tell her whenever square is ready -> square is connected, set to update the invenotry on square, which is automatically updated onto wordpress -> this is what she wants
+
+- check on the library in square, seee if the invenotry uploaded
