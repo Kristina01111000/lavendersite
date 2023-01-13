@@ -86,4 +86,4 @@ if we can't get square to work then she won't sell on the site
 - tell her whenever square is ready -> square is connected, set to update the invenotry on square, which is automatically updated onto wordpress -> this is what she wants
 
 - check on the library in square, seee if the invenotry uploaded
-- emailed her about issues, asked her to finish setting it up -> she will email me when she finishes setting it up. she said she will do it tomorrow
+- emailed her about issues, asked her to finish setting it up -> she will email me when she finishes setting it up -> she still hasn't emailed me about it, look into wp cart instead of the wp plugin
