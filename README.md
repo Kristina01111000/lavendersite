@@ -85,11 +85,10 @@ if we can't get square to work then she won't sell on the site
 - definitely need store up by the 15th
 - tell her whenever square is ready -> square is connected, set to update the invenotry on square, which is automatically updated onto wordpress -> this is what she wants
 
-- check on the library in square, seee if the invenotry uploaded
-- emailed her about issues, asked her to finish setting it up -> she will email me when she finishes setting it up -> she still hasn't emailed me about it, look into wp cart instead of the wp plugin
 - its connected to square
 - sku entered, Category initial, First 2 letters of first work, first 3 letters of second (or first 5 if one word), 11
 - to edit: needs to be done on square
 - to add a product add on square, put in sku, then add a product with that sku on wordpress site
 - now the site isn't loading
 - resetting the bluehost plugin fixed it? -> still isn't working on just firefox when i am logged it
+- check that it works tomorrow
