@@ -91,3 +91,4 @@ if we can't get square to work then she won't sell on the site
 - sku entered, Category initial, First 2 letters of first work, first 3 letters of second (or first 5 if one word), 11
 - to edit: needs to be done on square
 - to add a product add on square, put in sku, then add a product with that sku on wordpress site
+- now the site isn't loading
