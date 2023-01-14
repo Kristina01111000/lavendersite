@@ -92,3 +92,4 @@ if we can't get square to work then she won't sell on the site
 - to edit: needs to be done on square
 - to add a product add on square, put in sku, then add a product with that sku on wordpress site
 - now the site isn't loading
+- resetting the bluehost plugin fixed it?
