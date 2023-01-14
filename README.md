@@ -87,4 +87,4 @@ if we can't get square to work then she won't sell on the site
 
 - check on the library in square, seee if the invenotry uploaded
 - emailed her about issues, asked her to finish setting it up -> she will email me when she finishes setting it up -> she still hasn't emailed me about it, look into wp cart instead of the wp plugin
-- its connected to square, need to manually put the  sku into products
+- its connected to square, need to manually put the  sku into products - all 49 of them
