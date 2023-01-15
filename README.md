@@ -92,4 +92,5 @@ if we can't get square to work then she won't sell on the site
 - now the site isn't loading
 - resetting the bluehost plugin fixed it? -> still isn't working on just firefox when i am logged it
 - check that it works tomorrow
-- switch the shop page to the all products page on the header
+-  only doesn't work for the admin when logged in, why?
+
