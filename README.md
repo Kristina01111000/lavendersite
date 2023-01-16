@@ -96,4 +96,5 @@ if we can't get square to work then she won't sell on the site
 
 - needed to manually sync to update prices from square
 - banner image edited in the column on the right, did you upload the images into wordpress?
-- I'll make the bundle pages and set up the applications alos.
+- made 2 of the bundle pages, waiting for feedback
+- I'll set up the applications 
