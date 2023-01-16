@@ -95,6 +95,6 @@ if we can't get square to work then she won't sell on the site
 -  only doesn't work for the admin when logged in, why?
 
 - needed to manually sync to update prices from square
-- I'll attach the pdf to the landing page, native plants page, upcoming events and shop pags.
+- I'll attach the pdf to the upcoming events and shop pags.
 - I'll look into the banner image, did you upload the images into wordpress?
 - I'll make the bundle pages and set up the applications alos.
