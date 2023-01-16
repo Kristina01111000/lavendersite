@@ -94,3 +94,4 @@ if we can't get square to work then she won't sell on the site
 - check that it works tomorrow
 -  only doesn't work for the admin when logged in, why?
 
+- needed to manually sync to update prices from square
