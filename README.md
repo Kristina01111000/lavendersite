@@ -81,15 +81,12 @@ if we can't get square to work then she won't sell on the site
 
 
 - she's considering starting a freelance grantwritting business for non- profits in fall
-- she will have everything ready on january 5th
-- definitely need store up by the 15th
 - tell her whenever square is ready -> square is connected, set to update the invenotry on square, which is automatically updated onto wordpress -> this is what she wants
 
-- its connected to square
 - sku entered, Category initial, First 2 letters of first work, first 3 letters of second (or first 5 if one word), 11
 - to edit: needs to be done on square
 - to add a product add on square, put in sku, then add a product with that sku on wordpress site
-- now the site isn't loading
+
 - resetting the bluehost plugin fixed it? -> still isn't working on just firefox when i am logged it
 - check that it works tomorrow
 -  only doesn't work for the admin when logged in, why?
