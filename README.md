@@ -95,5 +95,6 @@ if we can't get square to work then she won't sell on the site
 - banner image edited in the column on the right, did you upload the images into wordpress?
 
 - I'll set up the applications 
-- - she is double checking the images for the plants, 3 were wrong
+- she is double checking the images for the plants, 3 were wrong
 - connect the bundle pages to native plant page and shop page when she is done
+- connect the buy now buttons on the bundle pages
