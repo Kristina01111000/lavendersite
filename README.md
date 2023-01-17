@@ -96,3 +96,4 @@ if we can't get square to work then she won't sell on the site
 
 - I'll set up the applications 
 - - she is double checking the images for the plants, 3 were wrong
+- connect the bundle pages to native plant page and shop page when she is done
