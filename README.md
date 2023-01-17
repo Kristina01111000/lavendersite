@@ -1,10 +1,7 @@
 # lavendersite
 janet's site
 
-
 janet questions: lavender farm and native plant retail sale advertising, sell stuff on the site 3 goals: communication, marketing, connect an inventory and ordering structure to it, have people place orders for native plants online retail, pretty site, experience the plants, sense of nature, sense of well being, goal is to provide interactions, connections, to experience nature direct sales, with inventory setting, wildones website, would like garden example, interactie thing where people input type of garden the returns list of types of plants they should plant, would like to give a curated list of plants that would provide a community of plants, like national wildlife federation, zone shrubs, understory, groundcover, flowering plants, then design the garden -> part of targeted education locally focused target demographic: gardeners, garden communities, retirement communities, schools, keep track of: error reports for buying stuff a question field, alert if text fields arent working looks of the site: don't want to look like everyone else
-
-
 
 
     lavender farm, lavender infused gin, buy gin, specialty cocktails, workshops and educational events at the same time, in summer educational events, culinary lavender, essential oils, pick season, after that essential oils, lavender wreaths workshops,
@@ -18,9 +15,7 @@ Waiting on Janet:
 - podcast won't be ready until feb/march?
     - podcast will be on anchor, see how that works with bluehost
     - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
-- See what best app for posting on multiple sites is (instagram, facebook, the website)
-   
-    
+- See what best app for posting on multiple sites is (instagram, facebook, the website) 
 
 
 For shop:
@@ -30,19 +25,9 @@ Description, planting, companions, wildlife value, in extended page
 Only pick ups, no delivery, no shipping
 She wants them to pay for it online, then come pick it up
 Pay when they order
-Put map on contact us page, 
-
-About us page: 
-Put 9 week old babe in gallery and some of the fields
-Add a blog section to site 
-
-
-
 
 - configure yoast after shop is ready
 - set up optin monster
-- finish all ot the item descriptions
-- add subscribe to newsletter
 - get a newsletter plugin for a standard letter
     - native plant of the month
     - image area row of images whats blooming now
