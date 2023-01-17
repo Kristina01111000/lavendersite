@@ -98,3 +98,4 @@ if we can't get square to work then she won't sell on the site
 - banner image edited in the column on the right, did you upload the images into wordpress?
 - made 2 of the bundle pages, waiting for feedback
 - I'll set up the applications 
+- - she is double checking the images for the plants, 3 were wrong
