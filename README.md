@@ -98,3 +98,4 @@ if we can't get square to work then she won't sell on the site
 - she is double checking the images for the plants, 3 were wrong
 - connect the bundle pages to native plant page and shop page when she is done
 - connect the buy now buttons on the bundle pages
+- she is going to add descriptions to the bundle pages
