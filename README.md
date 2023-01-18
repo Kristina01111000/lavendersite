@@ -77,7 +77,6 @@ if we can't get square to work then she won't sell on the site
 -  only doesn't work for the admin when logged in, why?
 
 - needed to manually sync to update prices from square
-- banner image edited in the column on the right, did you upload the images into wordpress?
 
 - I'll set up the applications 
 - she is double checking the images for the plants, 3 were wrong
