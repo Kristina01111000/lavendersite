@@ -83,3 +83,5 @@ if we can't get square to work then she won't sell on the site
 - connect the bundle pages to native plant page and shop page when she is done
 - connect the buy now buttons on the bundle pages
 - she is going to add descriptions to the bundle pages
+- email her on friday about the bundle pages and attaching them
+- also tell her the product descriptions need to be changed on square, not wordpress
