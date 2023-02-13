@@ -89,13 +89,15 @@ if we can't get square to work then she won't sell on the site
 - she emailed:
     - delete the old picture from the site
     - add all of the links to the pages for the bundles
-        - small pollinator
+
         - large pollinator
               - what is sedge? where is it
               - no goldenrod listed on the site
               - butterfly weed not showing up on listing
-        - firefly
         - under tree
+            - no maidenhair fern
+            - no sedge
+            - no virginia waterleaf
         - woodland garden
             - no foamflower
             - no hoary skullcap
