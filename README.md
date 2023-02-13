@@ -86,4 +86,6 @@ if we can't get square to work then she won't sell on the site
 - email her on friday about the bundle pages and attaching them
 - also tell her the product descriptions need to be changed on square, not wordpress
 
-- email her for a check up soon
+- she emailed:
+    - delete the old picture from the site
+    - add all of the links to the pages for the bundles
