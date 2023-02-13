@@ -11,11 +11,11 @@ janet questions: lavender farm and native plant retail sale advertising, sell st
 list of options in the search with returns, given table limited to cny region, zone, moisture content, sunlight, topography include link for people to figure out their zone
 
 
-Waiting on Janet:
-- podcast won't be ready until feb/march?
-    - podcast will be on anchor, see how that works with bluehost
-    - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
-- See what best app for posting on multiple sites is (instagram, facebook, the website) 
+    Waiting on Janet:
+    - podcast won't be ready until feb/march?
+        - podcast will be on anchor, see how that works with bluehost
+        - subscribe to our podcast here link, make a new page for the podcast list of episodes with a link to them
+    - See what best app for posting on multiple sites is (instagram, facebook, the website) 
 
 
 For shop:
@@ -70,11 +70,7 @@ if we can't get square to work then she won't sell on the site
 
 - sku entered, Category initial, First 2 letters of first work, first 3 letters of second (or first 5 if one word), 11
 - to edit: needs to be done on square
-- to add a product add on square, put in sku, then add a product with that sku on wordpress site
-
-- resetting the bluehost plugin fixed it? -> still isn't working on just firefox when i am logged it
-- check that it works tomorrow
--  only doesn't work for the admin when logged in, why?
+- to add a product add on square, put in sku, then import square products
 
 - needed to manually sync to update prices from square
 
