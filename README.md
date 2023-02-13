@@ -89,6 +89,12 @@ if we can't get square to work then she won't sell on the site
 - she emailed:
     - delete the old picture from the site
     - add all of the links to the pages for the bundles
+        - small pollinator
+        - large pollinator
+        - firefly
+        - under tree
+        - woodland garden
+    - add actual bundles for people to buy with one click
         - bbb pack
         - small pollinator
         - large pollinator
