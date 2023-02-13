@@ -92,9 +92,17 @@ if we can't get square to work then she won't sell on the site
         - small pollinator
         - large pollinator
               - what is sedge? where is it
+              - no goldenrod listed on the site
+              - butterfly weed not showing up on listing
         - firefly
         - under tree
         - woodland garden
+            - no foamflower
+            - no hoary skullcap
+            - no ostrich fern
+            - no maidenhair fern
+            - no brides feathers
+            - no blue mistflower
     - add actual bundles for people to buy with one click
         - bbb pack
         - small pollinator
