@@ -105,3 +105,6 @@ if we can't get square to work then she won't sell on the site
         - firefly
         - under tree
         - woodland garden
+
+
+make sure she has the sku on square and woo
