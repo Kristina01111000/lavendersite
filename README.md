@@ -108,3 +108,4 @@ if we can't get square to work then she won't sell on the site
 
 
 make sure she has the sku on square and woo
+she added new plants, add them to the bundle pages
