@@ -107,5 +107,6 @@ if we can't get square to work then she won't sell on the site
         - woodland garden
 
 
-make sure she has the sku on square and woo
-she added new plants, add them to the bundle pages
+- make sure she has the sku on square and woo
+- she added new plants, add them to the bundle pages
+- make sure the sku gets checked, that could be the cause of the issue
