@@ -110,3 +110,4 @@ if we can't get square to work then she won't sell on the site
 - make sure she has the sku on square and woo
 - she added new plants, add them to the bundle pages
 - make sure the sku gets checked, that could be the cause of the issue
+- make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
