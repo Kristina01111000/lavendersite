@@ -115,3 +115,5 @@ if we can't get square to work then she won't sell on the site
 
 - update issue caused by woocommerce products needing to allow square to edit them
 - check to see why there are 70 products on the list but only 67 show up on the site
+- meeting on friday at 3:30, waiting on a confirmation
+- put time in cell phone
