@@ -117,3 +117,5 @@ if we can't get square to work then she won't sell on the site
 - check to see why there are 70 products on the list but only 67 show up on the site
 - meeting on friday at 3:30, waiting on a confirmation
 - put time in cell phone
+
+make a new form for people applying to work there before the call tomorrow
