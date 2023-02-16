@@ -128,6 +128,7 @@ For meeting:
 - update issue caused by woocommerce products needing to allow square to edit them
 - any updates from square to woocommerce need to be manually updated
 - updates from woocommerce to square are done by the site
+    - this is one of the reasons people don't like square
 - read more shows instead of buy button when they are out of stock
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 - talk about application page, any edits to form
