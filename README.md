@@ -74,7 +74,6 @@ if we can't get square to work then she won't sell on the site
 
 - needed to manually sync to update prices from square
 
-- I'll set up the applications ***
 - she is double checking the images for the plants, 3 were wrong
 - connect the bundle pages to native plant page and shop page when she is done
 - connect the buy now buttons on the bundle pages
@@ -87,10 +86,10 @@ if we can't get square to work then she won't sell on the site
              - no goldenrod listed on the site, what should it link to?
              - butterfly weed  -> now in all products
         - under tree pack
-            - no virginia waterleaf
+            - no virginia waterleaf -> she is adding it
         - woodland garden
             - no ostrich fern -> now on all products
-            - no blue mistflower
+            - no blue mistflower -> now on woocommerce
     - add actual bundles for people to buy with one click
         - bbb pack
         - small pollinator
@@ -101,8 +100,6 @@ if we can't get square to work then she won't sell on the site
 
 
 - make sure she has the sku on square and woo
-- she added new plants, add them to the bundle pages
-
 
 
 - check to see why there are 70 products on the list but only 67 show up on the site
@@ -141,4 +138,11 @@ For meeting:
 - she is not selling goldenrod
 on bundle page see if a button is only on the bundle part, if not add a link to the set 
 
-ostrich fern is on the both sites, now showing up on the all products page
+- she has to add one more plant, the other three are now showing up on the all products page
+
+- don't need to change the application page, shes good with google forms
+- on homepage the "preorders being taken now" have it go to the order form (excel file that she sent to me)
+- replace the 'plant list' on the site to the order form (it is on the events page, homepage, native plants page)
+- switch the bundle pages that are square back to circles - in aspect ratio
+- for the under the trees pack think about how to get the different options
+- look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
