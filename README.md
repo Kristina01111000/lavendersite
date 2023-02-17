@@ -134,7 +134,7 @@ For meeting:
 - remove buy buttons from individual plants in bundle
 - move the bundle to the top and link to the purchase section
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
-- 
+- default image for woocommerce changed
 - she is not selling goldenrod
 on bundle page see if a button is only on the bundle part, if not add a link to the set 
 
