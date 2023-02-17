@@ -87,9 +87,7 @@ if we can't get square to work then she won't sell on the site
               - what is sedge? where is it
               - no goldenrod listed on the site
               - butterfly weed not showing up on listing
-        - under tree
-            - no maidenhair fern
-            - no sedge
+        - under tree pack
             - no virginia waterleaf
         - woodland garden
             - no foamflower
