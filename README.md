@@ -89,11 +89,7 @@ if we can't get square to work then she won't sell on the site
         - under tree pack
             - no virginia waterleaf
         - woodland garden
-            - no foamflower
-            - no hoary skullcap
             - no ostrich fern
-            - no maidenhair fern
-            - no brides feathers
             - no blue mistflower
     - add actual bundles for people to buy with one click
         - bbb pack
@@ -110,12 +106,10 @@ if we can't get square to work then she won't sell on the site
 
 
 - check to see why there are 70 products on the list but only 67 show up on the site
-- meeting on friday at 3:30, waiting on a confirmation
-- put time in cell phone
+- meeting on friday at 3:30
 
 
 before meeting tomorrow:
-- finish connecting the plant links to the bundle page
 - see if bundles can be made the way she wants (maybe not)
 - make a new form for people applying to work there before the call tomorrow
 
@@ -127,5 +121,6 @@ For meeting:
 - updates from woocommerce to square are done by the site
     - this is one of the reasons people don't like square
 - read more shows instead of buy button when they are out of stock
+- some of the plants listed in the bundles still aren't on the products list
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 - talk about application page, any edits to form
