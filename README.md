@@ -120,7 +120,7 @@ For meeting:
 - read more shows instead of buy button when they are out of stock
 - some of the plants listed in the bundles still aren't on the products list
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
-- talk about application page, any edits to form, the only issue i am having with putting a form on the site is the part where they upload their resume.  accepting an unpoaded file is something that alot of bluehost doesn't make easy to do.  I can probably find a plugiin that can make it happen, or is having them submit thier resume to an email address after they submit the form an option?
+
 
 
 
