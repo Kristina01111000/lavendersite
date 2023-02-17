@@ -84,9 +84,8 @@ if we can't get square to work then she won't sell on the site
     - add all of the links to the pages for the bundles
 
         - large pollinator
-              - what is sedge? where is it
-              - no goldenrod listed on the site
-              - butterfly weed not showing up on listing
+             - no goldenrod listed on the site, what should it link to?
+             - butterfly weed not in all products
         - under tree pack
             - no virginia waterleaf
         - woodland garden
