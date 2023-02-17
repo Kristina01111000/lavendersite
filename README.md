@@ -85,11 +85,11 @@ if we can't get square to work then she won't sell on the site
 
         - large pollinator
              - no goldenrod listed on the site, what should it link to?
-             - butterfly weed not in all products
+             - butterfly weed  -> now in all products
         - under tree pack
             - no virginia waterleaf
         - woodland garden
-            - no ostrich fern
+            - no ostrich fern -> now on all products
             - no blue mistflower
     - add actual bundles for people to buy with one click
         - bbb pack
@@ -124,3 +124,21 @@ For meeting:
 - some of the plants listed in the bundles still aren't on the products list
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 - talk about application page, any edits to form, the only issue i am having with putting a form on the site is the part where they upload their resume.  accepting an unpoaded file is something that alot of bluehost doesn't make easy to do.  I can probably find a plugiin that can make it happen, or is having them submit thier resume to an email address after they submit the form an option?
+
+
+
+
+
+2/17 meeting
+- hide all products page not using it this year
+- she has an order form excel file where they list what they want and have them email them to her
+
+- total purchase for bundles is the sum of the plants - 10 dollars for bundles
+- remove buy buttons from individual plants in bundle
+- move the bundle to the top and link to the purchase section
+- the bundles can be bought through square, people who want other things need to use the spreadsheet
+- 
+- she is not selling goldenrod
+on bundle page see if a button is only on the bundle part, if not add a link to the set 
+
+ostrich fern is on the both sites, now showing up on the all products page
