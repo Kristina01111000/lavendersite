@@ -108,24 +108,13 @@ For meeting:
 - read more shows instead of buy button when they are out of stock
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 
-- fix the spelling of ruDbeckia on small pollinator garden
-
 - setting bundles to total price, small bundle would be discounted 33%, she can set the price change on square
 - bundles let you pick the number of each plant on woocommerce, so im not sure it will transfer to square the way you want
 
 2/17 meeting
 
-- remove buy buttons from individual plants in bundle
-- move the bundle to the top and link to the purchase section
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
 
-- she is not selling goldenrod
-- on bundle page see if a button is only on the bundle part, if not add a link to the set 
-
-- she has to add one more plant, the other three are now showing up on the all products page
-
-- switch the bundle pages that are square back to circles - in aspect ratio
-- for the under the trees pack think about how to get the different options
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
 
 
