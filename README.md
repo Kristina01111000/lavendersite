@@ -128,7 +128,6 @@ For meeting:
 
 2/17 meeting
 - hide all products page not using it this year
-- she has an order form excel file where they list what they want and have them email them to her
 
 - total purchase for bundles is the sum of the plants - 10 dollars for bundles
 - remove buy buttons from individual plants in bundle
@@ -140,8 +139,6 @@ For meeting:
 
 - she has to add one more plant, the other three are now showing up on the all products page
 
-- on homepage the "preorders being taken now" have it go to the order form (excel file that she sent to me)
-- replace the 'plant list' on the site to the order form (it is on the events page, homepage, native plants page)
 - switch the bundle pages that are square back to circles - in aspect ratio
 - for the under the trees pack think about how to get the different options
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
