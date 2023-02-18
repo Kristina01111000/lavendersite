@@ -115,7 +115,7 @@ For meeting:
 - read more shows instead of buy button when they are out of stock
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 
-
+- fix the spelling of ruDbeckia on small pollinator garden
 
 
 
