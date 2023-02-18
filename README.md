@@ -116,10 +116,3 @@ For meeting:
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
 
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
-
-
-
-For Update email:
-- default image for woocommerce changed, and logo changed to correct colors
-- hid allproducts page
-- possible to get a pdf of the order form for people? the excel file is attached, but a pdf wouold probably be better
