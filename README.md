@@ -20,8 +20,6 @@ list of options in the search with returns, given table limited to cny region, z
 
 For shop:
 See if I can add categories for sorting link prairie moon, not native range
-Soil moisture, height (short medium tall), bloom color, sun exposure, bloom time, 
-Description, planting, companions, wildlife value, in extended page
 Only pick ups, no delivery, no shipping
 She wants them to pay for it online, then come pick it up
 Pay when they order
@@ -39,25 +37,11 @@ Pay when they order
 - add the pickup line to the descriptions of the plants (all) - about 25 left to fix
 
 - double check the spelling of LaFayette, does it have a space
-- figure out why shop page was a mess -> was set to the main shop page in woocommerce 
-- finalize no shipping
 - check auto emails, make sure they say pick up only
-
-she will email me exact wordage, add a link to homepage saying join us, right below the our story button in the our story section
-consider using square instead of paypal/woocommerce or linking it together
-next year she will have a digital file for all of the plants (images of plants are her plants, not from other places)
-
-stopped the store, disconnected from paypal, 
-if we can't get square to work then she won't sell on the site
-
 
 - look into square for wp: https://wordpress.org/plugins/woocommerce-square/
 
-- she wants preorders up by mid-january
-- there are a lot of negative reviews -> biggest complaints is that inventiry doesn't sync, and inventory management is broken 
 - estimated date of pickups for pre orders?
-- will add a banner that says preorders open on ----
-
 - she will be adding bundles this year
 - check the mobile view of the site, the homepage test looks wonky
 - see if footer pages can be centered
