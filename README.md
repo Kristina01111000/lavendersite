@@ -80,14 +80,7 @@ if we can't get square to work then she won't sell on the site
 
 - she emailed:
 
-        - large pollinator
-             - no goldenrod listed on the site, what should it link to?
-             - butterfly weed  -> now in all products
-        - under tree pack
-            - no virginia waterleaf -> she is adding it
-        - woodland garden
-            - no ostrich fern -> now on all products
-            - no blue mistflower -> now on woocommerce
+       
     - add actual bundles for people to buy with one click
         - bbb pack
         - small pollinator
@@ -117,12 +110,11 @@ For meeting:
 
 - fix the spelling of ruDbeckia on small pollinator garden
 
-- setting bundles to total price, small bundle would be discounted 33%, she canset the price change on square
-
+- setting bundles to total price, small bundle would be discounted 33%, she can set the price change on square
+- bundles let you pick the number of each plant on woocommerce, so im not sure it will transfer to square the way you want
 
 2/17 meeting
 
-- total purchase for bundles is the sum of the plants - 10 dollars for bundles
 - remove buy buttons from individual plants in bundle
 - move the bundle to the top and link to the purchase section
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
