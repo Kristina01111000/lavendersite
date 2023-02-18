@@ -121,7 +121,6 @@ For meeting:
 
 
 2/17 meeting
-- hide all products page not using it this year
 
 - total purchase for bundles is the sum of the plants - 10 dollars for bundles
 - remove buy buttons from individual plants in bundle
