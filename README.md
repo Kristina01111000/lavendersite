@@ -79,8 +79,6 @@ if we can't get square to work then she won't sell on the site
 - connect the buy now buttons on the bundle pages
 
 - she emailed:
-    - delete the old picture from the site
-    - add all of the links to the pages for the bundles
 
         - large pollinator
              - no goldenrod listed on the site, what should it link to?
@@ -100,9 +98,6 @@ if we can't get square to work then she won't sell on the site
 
 
 - make sure she has the sku on square and woo
-
-
-- check to see why there are 70 products on the list but only 67 show up on the site
 - meeting on friday at 3:30
 
 
@@ -118,7 +113,6 @@ For meeting:
 - updates from woocommerce to square are done by the site
     - this is one of the reasons people don't like square
 - read more shows instead of buy button when they are out of stock
-- some of the plants listed in the bundles still aren't on the products list
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 
 
