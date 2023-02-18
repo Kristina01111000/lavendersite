@@ -117,7 +117,7 @@ For meeting:
 
 - fix the spelling of ruDbeckia on small pollinator garden
 
-
+- setting bundles to total price, small bundle would be discounted 33%, she canset the price change on square
 
 
 2/17 meeting
