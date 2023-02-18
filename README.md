@@ -134,15 +134,19 @@ For meeting:
 - remove buy buttons from individual plants in bundle
 - move the bundle to the top and link to the purchase section
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
-- default image for woocommerce changed
+
 - she is not selling goldenrod
-on bundle page see if a button is only on the bundle part, if not add a link to the set 
+- on bundle page see if a button is only on the bundle part, if not add a link to the set 
 
 - she has to add one more plant, the other three are now showing up on the all products page
 
-- don't need to change the application page, shes good with google forms
 - on homepage the "preorders being taken now" have it go to the order form (excel file that she sent to me)
 - replace the 'plant list' on the site to the order form (it is on the events page, homepage, native plants page)
 - switch the bundle pages that are square back to circles - in aspect ratio
 - for the under the trees pack think about how to get the different options
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
+
+
+
+For Update meail:
+- default image for woocommerce changed, and logo changed to correct colors
