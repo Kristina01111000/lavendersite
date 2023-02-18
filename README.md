@@ -148,5 +148,7 @@ For meeting:
 
 
 
-For Update meail:
+For Update email:
 - default image for woocommerce changed, and logo changed to correct colors
+- hid allproducts page
+- possible to get a pdf of the order form for people? the excel file is attached, but a pdf wouold probably be better
