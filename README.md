@@ -100,3 +100,6 @@ For meeting:
 - the bundles can be bought through square, people who want other things need to use the spreadsheet
 
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
+
+- setup the bundles the way she said in email
+- email her when they are ready
