@@ -102,4 +102,5 @@ For meeting:
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
 
 - setup the bundles the way she said in email
+- add the links to the site
 - email her when they are ready
