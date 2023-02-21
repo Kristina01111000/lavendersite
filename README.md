@@ -104,4 +104,4 @@ For meeting:
 - setup the bundles the way she said in email
 - add the links to the site
 - email her when they are ready
-_ hid e the plants that arent bundles
+
