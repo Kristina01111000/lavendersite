@@ -92,8 +92,6 @@ For meeting:
 - read more shows instead of buy button when they are out of stock
 - make sure she knows how to edit the pictures, tell her that when replacing a picture its way easier to remove the previous picture then add a new one instead of hitting the replace image button, its a little quirk of woocommerce that that creates a mess
 
-- setting bundles to total price, small bundle would be discounted 33%, she can set the price change on square
-- bundles let you pick the number of each plant on woocommerce, so im not sure it will transfer to square the way you want
 
 2/17 meeting
 
@@ -101,5 +99,5 @@ For meeting:
 
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
 
-
+- she set the bundles to one size for each
 
