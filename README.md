@@ -36,7 +36,6 @@ Pay when they order
 - added shipping warning to cart, checkout page and shop page, in more places?
 - add the pickup line to the descriptions of the plants (all) - about 25 left to fix
 
-- double check the spelling of LaFayette, does it have a space
 - check auto emails, make sure they say pick up only
 
 - look into square for wp: https://wordpress.org/plugins/woocommerce-square/
@@ -58,13 +57,7 @@ Pay when they order
 
 - needed to manually sync to update prices from square
 
-- she is double checking the images for the plants, 3 were wrong
-- connect the bundle pages to native plant page and shop page when she is done
-- connect the buy now buttons on the bundle pages
-
-- she emailed:
-
-       
+- she emailed:   
     - add actual bundles for people to buy with one click
         - bbb pack
         - small pollinator
