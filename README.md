@@ -92,3 +92,7 @@ For meeting:
 
 - look into the best plugin to connect social media and the site, she wants changes to the homepage every so often
 - get an update from her soon
+
+
+
+email her on monday: ask about bundles working, update on newsletter, podcast?
