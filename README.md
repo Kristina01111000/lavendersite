@@ -95,4 +95,4 @@ For meeting:
 
 
 
-email her on monday: ask about bundles working, update on newsletter, podcast?
+email her on tuesday: ask about bundles working, update on newsletter, podcast?
