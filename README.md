@@ -96,3 +96,7 @@ For meeting:
 
 
 email her on thursday: ask about bundles working, update on newsletter, podcast?, any issues with square working with woocommerce?
+
+
+4/2
+- Janet couldn't get to the builder and support had to fix the 'system issue'
