@@ -100,3 +100,7 @@ email her on thursday: ask about bundles working, update on newsletter, podcast?
 
 4/2
 - Janet couldn't get to the builder and support had to fix the 'system issue'
+
+
+email her to see if there is anything she wants done,
+send the year long maintenance bill
