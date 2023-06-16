@@ -102,5 +102,5 @@ email her on thursday: ask about bundles working, update on newsletter, podcast?
 - Janet couldn't get to the builder and support had to fix the 'system issue'
 
 
-email her to see if there is anything she wants done,
+email her to see if there is anything she wants done, after we get back from pennsylvania, also talks about the site she wanted for writitng, the things she writes, not bills, plans for spending money that you want from the governments, draft, script, something like that
 send the year long maintenance bill
