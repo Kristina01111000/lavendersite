@@ -105,3 +105,4 @@ email her on thursday: ask about bundles working, update on newsletter, podcast?
 email her to see if there is anything she wants done, after we get back from pennsylvania, also talks about the site she wanted for writitng, the things she writes, not bills, plans for spending money that you want from the governments, draft, script, something like that
 send the year long maintenance bill
 see if she is still thinking of a podcast
+site mail connection is updated
