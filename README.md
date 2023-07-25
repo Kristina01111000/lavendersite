@@ -106,3 +106,8 @@ email her to see if there is anything she wants done,  also talk about the site 
 send the year long maintenance bill
 see if she is still thinking of a podcast
 site mail connection is updated
+
+
+
+
+need to email her, write it and set it to send it at a good time
