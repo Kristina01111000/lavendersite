@@ -111,3 +111,6 @@ site mail connection is updated
 
 
 need to email her, write it and set it to send it at a good time
+the site looks messy, something is up
+can't connect to the editor
+site renewal is soon, need to email janet
