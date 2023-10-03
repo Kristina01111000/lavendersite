@@ -107,6 +107,7 @@ send the year long maintenance bill
 see if she is still thinking of a podcast
 site mail connection is updated
 
+need to write a draft email and just ssend it
 
 
 
