@@ -103,15 +103,11 @@ email her on thursday: ask about bundles working, update on newsletter, podcast?
 
 
 email her to see if there is anything she wants done,  also talk about the site she wanted for writitng, the things she writes, not bills, plans for spending money that you want from the governments, draft, script, something like that
-send the year long maintenance bill
 see if she is still thinking of a podcast
 site mail connection is updated
 
-need to write a draft email and just ssend it
 
-
-
-need to email her, write it and set it to send it at a good time
 the site looks messy, something is up -> going to the customize page seemsto have fixed the messiness issue
 can't connect to the editor
-site renewal is soon, need to email janet
+
+sent invoice
