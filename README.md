@@ -110,4 +110,6 @@ site mail connection is updated
 the site looks messy, something is up -> going to the customize page seemsto have fixed the messiness issue
 can't connect to the editor
 
-sent invoice
+sent invoice -> she says check is in the mail
+
+fix the site so it is ready for 2024
