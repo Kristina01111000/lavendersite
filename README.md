@@ -107,11 +107,10 @@ see if she is still thinking of a podcast
 site mail connection is updated
 
 
-the site looks messy, something is up -> going to the customize page seemsto have fixed the messiness issue
-can't connect to the editor
+the site looks messy, something is up -> going to the customize page seems to have fixed the messiness issue
+
 
 sent invoice -> recieved
 
-make sure to tell her that the job application form needs the year updated to 2024, also ask about the farmers markets
 
 
