@@ -112,5 +112,5 @@ the site looks messy, something is up -> going to the customize page seems to ha
 
 sent invoice -> recieved
 
-
+- check to see if she updated the google doc year
 
