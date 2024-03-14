@@ -111,3 +111,4 @@ site mail connection is updated
 
 - check to see if she updated the google doc year
 - make sure it is still working right
+- send her an email with everything on monday
