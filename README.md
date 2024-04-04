@@ -107,7 +107,7 @@ see if she is still thinking of a podcast
 site mail connection is updated
 
 wp 6.5 handled by the site
-
+email her about connecting other social medias to the site
 
 
 
