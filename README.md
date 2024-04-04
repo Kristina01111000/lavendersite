@@ -106,6 +106,8 @@ email her to see if there is anything she wants done,  also talk about the site 
 see if she is still thinking of a podcast
 site mail connection is updated
 
+wp 6.5 handled by the site
+
 
 
 
