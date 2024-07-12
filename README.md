@@ -114,3 +114,6 @@ email her about connecting other social medias to the site
 - check to see if she updated the google doc year
 - make sure it is still working right
 - send her an email with everything on monday
+
+
+the website builder is not working correctly, it stopped on wednesday, still not working today (friday) try to get the image up
