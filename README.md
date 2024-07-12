@@ -116,4 +116,4 @@ email her about connecting other social medias to the site
 - send her an email with everything on monday
 
 
-the website builder is not working correctly, it stopped on wednesday, still not working today (friday) try to get the image up
+the website builder is not working correctly, it stopped on wednesday, still not working today (friday) try to get the image up -> still not working :(
