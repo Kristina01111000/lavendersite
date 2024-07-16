@@ -120,3 +120,4 @@ the website builder is not working correctly, it stopped on wednesday, still not
 its still not working, i got the image uploaded
 
 it finally worked,
+deleted the extra themes in the backend
