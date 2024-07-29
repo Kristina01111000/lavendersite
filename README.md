@@ -106,7 +106,6 @@ email her to see if there is anything she wants done,  also talk about the site 
 see if she is still thinking of a podcast
 site mail connection is updated
 
-wp 6.5 handled by the site
 email her about connecting other social medias to the site
 
 
@@ -116,8 +115,3 @@ email her about connecting other social medias to the site
 - send her an email with everything on monday
 
 
-the website builder is not working correctly, it stopped on wednesday, still not working today (friday) try to get the image up -> still not working :(
-its still not working, i got the image uploaded
-
-it finally worked,
-deleted the extra themes in the backend
