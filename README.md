@@ -114,4 +114,6 @@ email her about connecting other social medias to the site
 - make sure it is still working right
 - send her an email with everything on monday
 
-- check teh site and make sure that the images are good
+- check the site and make sure that the images are good
+
+- site reset is soon, email her about it
