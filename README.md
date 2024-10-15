@@ -108,7 +108,7 @@ site mail connection is updated
 
 email her about connecting other social medias to the site
 
-
+-> sent renewal email to her 
 
 - check to see if she updated the google doc year
 - make sure it is still working right
