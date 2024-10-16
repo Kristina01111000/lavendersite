@@ -117,3 +117,5 @@ email her about connecting other social medias to the site
 - check the site and make sure that the images are good
 
 - site reset is soon, email her about it
+- 
+double check that i emailed her correctly
