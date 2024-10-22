@@ -118,4 +118,4 @@ email her about connecting other social medias to the site
 
 - site reset is soon, email her about it
 - 
-double check that i emailed her correctly
+- sent her a new copy of the email
