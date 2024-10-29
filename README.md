@@ -119,3 +119,4 @@ email her about connecting other social medias to the site
 - site reset is soon, email her about it
 - 
 - sent her a new copy of the email
+- try to renew the site tomorrow, i changed the payment information on bluehost
