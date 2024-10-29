@@ -120,3 +120,4 @@ email her about connecting other social medias to the site
 - 
 - sent her a new copy of the email
 - try to renew the site tomorrow, i changed the payment information on bluehost
+----> renewed it, double check it tomorrow, then email her
