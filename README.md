@@ -108,16 +108,8 @@ site mail connection is updated
 
 email her about connecting other social medias to the site
 
--> sent renewal email to her 
 
 - check to see if she updated the google doc year
-- make sure it is still working right
-- send her an email with everything on monday
 
-- check the site and make sure that the images are good
-
-- site reset is soon, email her about it
-- 
-- sent her a new copy of the email
 - try to renew the site tomorrow, i changed the payment information on bluehost
 ----> renewed it, double check it tomorrow, then email her
