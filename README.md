@@ -110,3 +110,6 @@ email her about connecting other social medias to the site
 
 
 - check to see if she updated the google doc year
+
+
+look at the site and see if there are any places that should be updated
