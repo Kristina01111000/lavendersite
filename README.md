@@ -110,6 +110,3 @@ email her about connecting other social medias to the site
 
 
 - check to see if she updated the google doc year
-
-- try to renew the site tomorrow, i changed the payment information on bluehost
-----> renewed it, double check it tomorrow, then email her
