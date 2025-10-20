@@ -114,3 +114,7 @@ email her about connecting other social medias to the site
 
 look at the site and see if there are any places that should be updated
 does she want pictures added to the site?
+
+
+10/20/25
+sent website invoice, ask about the woocommerce stuff?
