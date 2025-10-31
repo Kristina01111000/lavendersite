@@ -118,3 +118,9 @@ does she want pictures added to the site?
 
 10/20/25
 sent website invoice, ask about the woocommerce stuff?
+
+10/31 
+she wants a new hosting site
+wants it ot work with square better, 
+wants it faster
+look into making square work better
