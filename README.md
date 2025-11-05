@@ -125,3 +125,6 @@ wants it ot work with square better,
 wants it faster
 look into making square work better
 keep woocommerce connected for now
+
+
+recieved check
