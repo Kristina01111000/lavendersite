@@ -129,3 +129,4 @@ keep woocommerce connected for now
 
 recieved check
 website renewal went through
+meeting hopefully on dec 11 around 2:30
