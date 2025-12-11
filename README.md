@@ -130,3 +130,7 @@ keep woocommerce connected for now
 recieved check
 website renewal went through
 meeting hopefully on dec 11 around 2:30, emailed her again, research on tues/ wednesday to go over what she wants changed
+
+
+meeting on 12/11/25
+https://docs.google.com/document/d/11oSaFNre36TPlSWJ5TtFRvtE8damt7qwdOknm-u56Hc/edit?tab=t.0 
