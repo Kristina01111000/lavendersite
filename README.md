@@ -135,3 +135,8 @@ meeting hopefully on dec 11 around 2:30, emailed her again, research on tues/ we
 meeting on 12/11/25
 https://docs.google.com/document/d/11oSaFNre36TPlSWJ5TtFRvtE8damt7qwdOknm-u56Hc/edit?tab=t.0 
 sent follow up email
+
+
+4/22/26
+Its slow enough to mess with her editing
+prepare for site ground move
