@@ -140,3 +140,5 @@ sent follow up email
 4/22/26
 Its slow enough to mess with her editing
 prepare for site ground move
+
+_ it seems like the changes helped make it not so slow!
