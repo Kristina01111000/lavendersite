@@ -142,3 +142,6 @@ Its slow enough to mess with her editing
 prepare for site ground move
 
 _ it seems like the changes helped make it not so slow!
+
+
+-janet has surgery on thursday 9/24 email her in january for moving the site to square
